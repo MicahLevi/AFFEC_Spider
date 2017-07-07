@@ -4,51 +4,54 @@ MODULES
 	***THE FOLLOWING MODULES ARE ALREADY FULLY OR PARTIALLY IMPLEMENTED***
 	
 	> SpiderDriver.php:	Initializes and runs other classes. Takes the website abrv. as an argument
-						  and runs the scraper and mapper for that website. It also tracks which
-						  sites have been run, runs an aggregator on their findings, runs the
-						  database updater, and sends all information for that run to the Reporter
-						This class is meant to be run multiple times throughout the day from a
-						  cronjob. Each website will get its own job, which can scrape the site
-						  and generate a new Listing object to check versus the Database. However,
-						  some sites contain information for the same children, in which case the
-						  database updates cannot be made until all of those sites have finished,
-						  and the last one to finish then runs ListingAggregator.php
+					and runs the scraper and mapper for that website. It also tracks which
+					sites have been run, runs an aggregator on their findings, runs the
+					database updater, and sends all information for that run to the Reporter
+				This class is meant to be run multiple times throughout the day from a
+					cronjob. Each website will get its own job, which can scrape the site
+					and generate a new Listing object to check versus the Database. However,
+					some sites contain information for the same children, in which case the
+					database updates cannot be made until all of those sites have finished,
+					and the last one to finish then runs ListingAggregator.php
 	
 	SCRAPING
-		> SpiderScraper.php: Calls the other Scraping Agents to get the child profiles in html format.
-							   Handles the file comparisons for determining if a child listing has
-							   been updated. Saves each profile into Listings/$STATE_ABV/$STATE_ID,
-							   and returns the filenames of children whose pages have changed since
-							   last run.
-		> SearchAgents.php:  Calls the Paging Agent to get pages, and searches them for the following:
-								> Link to the next page of Listings
-								> Links to Child Profiles
-								> Child profile html (Throws away unneeded information on child page)
-							 The SearchAgent class is ABSTRACT, which means it cannot be directly
-							   instantiated, and you must instead use/create a child class. There are
-							   currently 2 methods/agent-types for searching through the html:
-								> DOM - uses simple_html_dom
-								> REGEX - uses preg_match_all
-		> PagingAgents.php:  Base class, PageAgent provides the pageRequest function, which takes a url
-							   and uses cURL to return the html for that page.
-							 ASPX_PageAgent is an extension, which visits an ASPX search form page and
-							   obtains the cookie and gathers postfields (Usually __VIEWSTATE etc.) from
-							   the page, so that the site can be navigated without the use of a javascript
-							   engine.
-		> URLGenerators.php: Used to generate the next page url for certain sites. Allows for different
-							   methods of counting up pages. It can provide both a link, as well as the
-							   necesarry postfields for navigating to the next page of listings.
+		> SpiderScraper.php: 	Calls the other Scraping Agents to get the child profiles in html format.
+						Handles the file comparisons for determining if a child listing has
+						been updated. Saves each profile into Listings/$STATE_ABV/$STATE_ID,
+						and returns the filenames of children whose pages have changed since
+						last run.
+		> SearchAgents.php:  	Calls the Paging Agent to get pages, and searches them for the following:
+						> Link to the next page of Listings
+						> Links to Child Profiles
+						> Child profile html (Throws away unneeded information on child page)
+					The SearchAgent class is ABSTRACT, which means it cannot be directly
+						instantiated, and you must instead use/create a child class. There are
+						currently 2 methods/agent-types for searching through the html:
+						> DOM - uses simple_html_dom
+						> REGEX - uses preg_match_all
+		> PagingAgents.php:	Base class, PageAgent provides the pageRequest function, which takes a url
+						and uses cURL to return the html for that page.
+						ASPX_PageAgent is an extension, which visits an ASPX search form page and
+						obtains the cookie and gathers postfields (Usually __VIEWSTATE etc.) from
+						the page, so that the site can be navigated without the use of a javascript
+						engine.
+		> URLGenerators.php:	Used to generate the next page url for certain sites. Allows for different
+						methods of counting up pages. It can provide both a link, as well as the
+						necesarry postfields for navigating to the next page of listings.
 	MAPPING
-		> SpiderMapper.php:			An ABSTRACT Base Class, which gets passed an array of filenames to
-									  create Listing objects for. It checks if the file exists, then
-									  passes it to the mapListing function, which returns the Listing
-									  object for that child/sibling-group. It also takes an array of given
-									  attributes for a listing on that site (i.e. $state=Ohio for OAPL)
+		> SpiderMapper.php:		An ABSTRACT Base Class, which gets passed an array of filenames to
+							create Listing objects for. It checks if the file exists, then
+							passes it to the mapListing function, which returns the Listing
+							object for that child/sibling-group. It also takes an array of given
+							attributes for a listing on that site (i.e. $state=Ohio for OAPL)
 		> class.SpiderListing.php:	Class object for child structuring child information so that it can
-									  easily be input into our databases
-		> PreprocessProfile.php:	
-		> ListingAggregator.php:	
+							easily be input into our databases
+		> PreprocessProfile.php:	The preprocess step mainly used to combine sibling groups from across files
+							into a single profile page
+		> ListingAggregator.php:	Runs after all interconnected sites have been scraped. Gathers the Listing
+							generated by each site's scrape/mapping and combines the information
+							while reporting any discrepencies.
 	
 	***THE FOLLOWING MODULES ARE NOT CURRENTLY IMPLEMENTED***
-	DATA INPUT
-		> 
+	DATA INPUT : Synchronizes to Databases
+	REPORTER : Sends report of changes made, errors, etc.
