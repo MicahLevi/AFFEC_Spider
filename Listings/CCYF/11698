@@ -1,0 +1,58 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="RCc5Q7i5+xpN+680rFjS8q3plrdDtodLO4zzIMcrA7RWlpY7N2ZKtnm1Zf7kExEzXoea8MRzl6RCom4HPMeRRCrkZonlV5VcCg4t37ro6fnIQfZp2BLiAhPlocU5ZAwcaH1VuWqheukIOuXhxHtoxsu7/obWtHExgGkGeR7pDcHOLTQIGN+5Tq8TEWSGE/LwQ0YGLPXFv+SVqt2l/mvPNoDgEEUTjbPMl61DC5wPmrtA7j8Orc34SuuEMlNkEY4Ql5pldgBwcnRGRXOL1JBNi/rxWGAGnBl/RfgbM9CaPne0jH+GSE7wYRM1uAg/1LFOKZD2opf9cxK4/ZvKP6/I+qGjG8eZjGVchHpbgdoZNaBEd/ie7M1hQZ8ljol+Ya9MuMeHJFtj5PcTHPI7u5rmd7tHsX5/IlggVuQ19jakilRZ0IeYSJ+BOnHR27GFt992JG2UZwGSWtqL0Otuv5F16FgkM7xO9oCqHtRboLDhxJUZQgPXCEkSIhhc/QaRdEfJBaR7fjD2QXVhzqfZVuyjS/t5Qp99VxSHrjwH80bp/FqQ8YRlmQI+RVoBJb6MbtvbYu/U0jUyastyBbEhe6cU7kGSiefO4hLhViGOSO8eRZQgF0vBZaxRB6jdSBMzLrwH6pou2daI3y/v6/AP/W7XY1B61vURktUeHrZnrYNEFPz8kHD6/O9NUXv3l0/uzJa3M0mwf4EEI+y/Q6vSNDEES3rmZGt4FwrfwlkPyse6qGZo1IdUyZBm2ie9oqUE9+oJvcQK/WhnD5J++75TrPpAPgL01GJ+jmnp6C/RyJt/wbxC5mdb3//5ZDy5x9ehPAlZ1SBf1GmR0bqBQMwl3+bZKhBCBjx6Sl+2bcVLIllrBz4Yr/J4kO33dQHLpmgAoHyeiGr14A3w0LpvHlWytTclr5oUmoxWnHwV4b3ryRdYty/iiFy0zOueSM1eeT5jO6EFcRUReXCH1NAez6dIhCtpjMeht032fjokOpBMNJdzQFNvxNwNfvt/d1j67QieAbh3LZlZ+2XmsEH5w1iraYNtWfIMfK7NDPsGCpyF7IdPkeQjnEH42n5zCc9SEf0zZ2s945X0n0pQryrqAMM863ropQ50h8xXzH6bg0hvK6QqYzyFQSK/Ea6/VGqeRZ1WTf+RezilNn0lA2ImmLwPBMy4J4DDae86/wBwq450M25FRn1jZVQ0GTxURZ7Y6yKTVuMTrFVPfWZnBGwDen3I6prYr8BLFzCP26ILp69lSRI+GstkmeKArnkwfBJs+pqDbcMI2lJbBd2/F1VC08phIm2iQM4vwZosfGNSNjMPKtdkbu/wjX77997Cajvi00WCAxaL28V8Fgb49pbtZC1IPDMavANJNxfpZTuSYdBW14y0zzlAGSLhxgdSpvRjpnyZ0tCWrgG5FqeGbGajF4wdNbUEyexqahNszSkKyqDFeTWLiIsBk1ZqZDBOrFEOM3ZmW88W" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/_ADS0527.JPG" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Moderate</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">None</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Moderate</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">Moderate</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Jason&kidNum=11698">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Jason is a very creative, innovative, and smart child. He loves to draw, create things with Legos, and play Minecraft.  Jason loves to help around the house and finds satisfaction in small jobs he can do to help.<p><p>
+
+Due to Jason’s special needs, he tends to be more comfortable in smaller and quieter environments and can become overwhelmed by large crowds and noises.  Jason does have the ability to carry out daily self-care routines but may need reminders from time to time.<p><p>
+
+Jason is seeking a two-parent household, where he can be the only child. Jason has a brother who he would like to remain connected with, and would like a family that is committed to maintaining that relationship.<p><p>
+
+Photo Credit: Artist Group Photo and Video, 2017
+</span>
+                </div>
+            
+    </div>
+    

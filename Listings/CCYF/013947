@@ -1,0 +1,53 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="6t+0e9ptMq09BzQXh3luJR44uWM0Ko3bhkiD4yeeDO9Y2XJgGGan+Gpzpz/V2dBuLjZGCLCF6ugJpCR3lx086LPT3DQVKfXHP/SlFi71yKCQdA7lZHFrJXmcxnklIDw5M3TdtWVbjw7R07eJ3mE58xIYvauQKFnwLt9eO4BjAN94nvE6P3siua587LcMFkVjXfyOn2+dWKNe76SPb8cP0PAm8Dco1Abg10Qx+vipLgJ2WHPElNsHPvpFlHPPAdDggPCtLV9CmipA5wdu1LhvLvEBgj2H72uGWQsBmdIyYbeWfNg8YemhzDjHI/5/tWbcTMDnnQmD1ibMQHvnRRGE+dFUk+I2PhVnD1o/2uqS+FfYq5PxdrDhum2ino8tUUQ1L9aJ8Q0NXf1Y7TV8ofM0I/Js5EhejKLLPB0j4nxLnaggSbn7QV7GJkI9HebW4M5sP2Z6IFG5pxAgE05hcOVyr/8cDXU/g8ivrWs3OQyoPYKSmhAsjJGLralQYvPwbuTp0Bnecye8abspAYKaR13OZWzYi8C4i+9Uo7V39HTZsCqHn4zghnqZNK/QU0k/viS9A7fZOR7DmIOQjktztUsL14fGd0KVyCUwZcyWx2+64urNowuATmYP6tYKEsqDqvyosOyE/WMu0vhVrdLwam3ldpORIzhfqFBAiYJgedoGoM9sMeo2f97G5EuQO96IbTku0sXGcYWyut6W5CKx1gKrjCLsTlfluuyUiHxMsJ6tcckeAiUlB2gLpH1MgOIDRSrv6EahGO+jfMSSnDZMq8doq6qpag70VRbMxEM2bg7XihBEva9PunjWQiOyqhIqx3/Y+yy8wBGMTVO3XlmpFTPIRvU0o+0BXfVmgqHo+Warw6eS6fm6lS3+2mwN2n4GBZu2yquTyULE2MjWdkB/ZHEdec2L9aSqLtSWayAPtKFOwPaHJVKhP2bj+Kj1daGg5t7UGVyjcYJ7RjC1m2F4zrlmp/mQW0j3moQprUd4Q5AmodoidBkvj5ThpAMvM1Dfkxz+uQdM3FQUqCBIDI6Vr2mCutl1lpwecgw9J38MaIjVLckozB++L5FMw2DhKieS/jhCNUNqEQsgXiWK9XbCqu3ojxR0NbvnLHJI1V5djYZQdl/7BNFGcQ+fgUXxXQQCB3HeZGdA6aWgIVdGfONDUzjOFDm76sDqHqxbl9U6cormGZs8k3/D6G1sQo+AX+lEhDMZtrYpfzpLyXBGCACrvFOy1esQi/T3KOhZukeNEbooNXvzIvLAkoBiTdX7tcTk1DrRFoLSHVdISbNmhi79qJavKe+Q/p4CUDdI2gz2c9gey2mciCNIuUD6b2qoqHaA3mfDTuVBtm6CmZ+XTF1+cNspII5lNTKKNkaEjzYyvIFHahphSFDRprfpAzJz4smiGxi2p4vLzHqD1LiLpTk1uEOesvKa2+d0bXynyrsoqDIR7IfFN/UfArDxuPQUcoRPypHaXTJgHbAQh45u3IBw1CVGkw8YkOPswR/aaTPHDwuv5TdqBYoFnLe4ldYddUGXydZqcYC02H2+ssPdh0xSe4GHzA==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Messiah%20photo.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">None</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Mild</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Mild</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">None</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Messiah&kidNum=013947">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Messiah is a fun, happy, loving, sweet, and cuddly young boy. He enjoys playing and cuddling with his current caregiver while watching an episode of his favorite show, Paw Patrol. Messiah engages in imaginative play and can be nurturing when he plays with his baby doll. Messiah also likes to build towers out of his blocks . . . and then knock them down! He also enjoys going for walks. 
+Messiah loves to visit and play with his younger brother, whom he speaks of quite frequently. Messiah is very verbal about his emotions and will let adults know when he is upset.  An experienced one- or two-parent no-matter-what family in Wisconsin would be best for Messiah. The caregiver(s) must have some trauma informed experience/knowledge and no animals in their home. Messiah and his younger brother must maintain their connection.  
+</span>
+                </div>
+            
+    </div>
+    

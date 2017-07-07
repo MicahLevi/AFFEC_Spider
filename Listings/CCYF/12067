@@ -1,0 +1,51 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="SK4uBAdia6swcxQZkUsVTC2apWUjtvkSF+KYaYTx9C2Q9w0w1NwSH2Tj9EFGtGqCWQnbAyRBrOp2NikvSLgnLxOQZNhpKOcGXmZODmuNWVEzCrB1TAow2SPRYqY8GWoIhrc2Erhb07qxqjKHpK0El2g7/mfJqt0WpRCw38c9157WlWzIzcEcEXZpCaqEdeDY8KnOOxZZ/nBIUdEsbZXl01UB5eiswuS5BjUkq/r4joFqx5yH92BB5GcKiGOV3WvbNol53QYhxFZ6WVYM3rfuOK38dCWccDoclDP0ocbD85i56znM846maXBmTORZ105Ppwk27s8vAcrg+aeiCXgGJsApqKib8eSY1mxN0Y40urspLIw3vWm7IyoI91idFhbs70QNianA8XjXciTiSKG/gqtyOamayL8hkzLeBd0H8E0OeDY93mFXtDJ13IaR9kJjPgeouhou/aGn+pliEOba+T9Xb/Rhm9B3DS1Ua4EOVnySWv5Mw4tTtsaFgDAStOXwitIVJVpQz3TRM27krCK9AmdIpWCwp+633Rc6AhQ36URlSSD9AuOxSxbG4d8er5NEvsZuVpo6HG3tskwQudXcM6y4sRi9jombAhdRKD5LfWcB3PsLNB4R4Bd2vDf7Q1PUe6xFcHtMQtg7Z4188ToYmAAmEdMxidNghWNrMYuZP3JMgQK4tKU2t7okczCGHDeez2XgTbqGe/R6jE2SLHOfJm43b2GYCvzSia1TnLmy4k2dHmdqcKwMR4nVgAz3QPCiNqwNTPMXeB6pr6x56xhPAyHNK1cGv+Vu/LDUa4v1OLTtD++aSdMTEHFgmOl3k+dR8fOfn3pjpYHohSlsyjUVVwEha0zil/JzSOyN6wdn/UsXuQtpjmsKFIk66vbNCgKbOHGaQofJ10JlHuaSak8ldm5Gk4vy50DHtN2DDa7Wnfs5LMT7dnLUlpwZShS57NCCTZimWSi4Y2hnzhLTid2Wc/yQ5RKkkq6tWFxQu1JVGj/TZbchkhXQq+mcA61pmW/o7xm3towCsSRRlRKHPXo+duklyMdHcQn9m62O5SRYX/varv+MhPdmQ8fpo5bomw6OJMttVIf6k7CfTgc2zP4088zPa7+BUkgwY4ndfkiqVq326qd9rgOxInJkVoUcGK0mc+QI24UiRjsV5sGzdPnWiAEmyo2oqK4JeQx/oN5wbdX58MoB0u4z4KomEQQzS2otVjxb10zH8gy6XFALQ5Vo+GzDqG7Odcfr5IoDWfTYBZzJi5/0sGritjM40SC+jHj2VCyNJ6y2n4KV82wp9THIbIVJ+q1UU5bH/9s6qekN1tUu28F3s21R8yHxV/5mb6UzcJvxEAmXpqmikR9bX/nSffi1FnK8fNH0VzFyHLjwV4lZzxrEZsXele2vObEDgAJOGZTshOL/OjIKq8jLS1aUsFdmzAXrkxmgk8Ip0najSKjGeQQxh/C9tsglTD6QRvzHQJlmEk3d4uvVyEnqFRRZvelWz5RecNnIwRdNc7i2oqpgNoVT++YIxrxBQt9Woh8ynooAbBBnq6ILZvFOhQUKf+Z83kIyxaka/9a10QDgvT28q54z93jQ81/RMg9jf1C9DaR34e4+WpTDmxXoIJuhTMSoGsq/gvaDlhhmnI3wynz6+60tfdisoaM98uozpCYCvxfi0tMOQRWBd7enHOjVxrJwOTt6gFFO89+E1XXHh14=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Young-Johnson-17.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">None</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Severe</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Severe</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">None</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Janae&kidNum=12067">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Janae is a healthy young lady who takes pride in following the rules. She also enjoys being helpful to adults and peers. Janae likes to spend time moving and dancing – ballet is her current favorite style of dance. She is also happy to spend time reading her favorite books, playing with her American Girl doll, and playing outside. In warmer months, she enjoys helping in the garden. She also really likes animals and their company. Janae is in great need of a loving parent or parents who can gain an understanding of her needs, help her express her emotions, and provide her with a loving and stable home. Janiah has three younger siblings and needs to remain in Wisconsin or nearby in order to support and nurture these vital sibling relationships. Janae will thrive in a home that provides structure, clear expectations, and consistency. Her team believes that she may do best as the youngest child if there are other children in the family.</span>
+                </div>
+            
+    </div>
+    

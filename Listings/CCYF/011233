@@ -1,0 +1,51 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="GS4X5Lke8E1nRlqWIKVyFW+DUSSK3h96+tszZo2ykC7CO/N02FcD9pohQdNoeu3+Sb/XawGcOY5bn1OG/H5jVnqy6pvwWEmIBwwW0Wl/GsuE0idWevWwZuyCTXa+pOtWgTuBEVGZFhXTbwbq1VlTs/X4rC/tQmlG38ZQtjMIKDxotC/6UsQCwtNMVS+iJjiUDAOwOZHIgLhe9GoVIu9R6Z3L1eKMyyJxCuHoo+CsL9MtGt9g7AlE8XtKmmeHmmBY9xGt+PDauM3c6wHMbFSf1k+yRUdbyUocI9wM/ZIQbM9wFKYCntpBjPxC2yXqgs7D+M9s4FMQVKF3eo+OivPisQTRNi5Nf/OfVbQmh7mDM4ZC+bacbjR7ZTM8gmEPHvZactvvsXb9X83YqLe9oiL7R//MgDmh/4JZcLmqTfblkaK/571ysBiyM7nJDXIiOdbevlZ0rXmuChSm1Aj7Tba8Bw==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Jaither-92_art.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">None</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">None</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Mild</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">None</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Montana &kidNum=011233">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Coming soon ... </span>
+                </div>
+            
+    </div>
+    

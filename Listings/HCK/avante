@@ -1,0 +1,45 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/AvanteEdit.jpg" />
+            <a href="/children/request-more-information/?child-name=Avante&child-id=0329abb&case-worker-email=HARRIT05@jfs.hamilton-co.org&recruiter-email=" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Avante</h2>
+            <h4>Born March 2003</h4>
+            <p>Avante is a determined 12-year-old who likes to play sports. He is working to become bigger and smarter every day. He likes rap music and video games and wants to be a police officer or professional athlete when he is older.</p>
+<p>He wants to play football and is a fan of the Bengals. Avante likes school. His favorite subject is math. Around his home, he helps with cleaning and washing dishes. He likes to play basketball and video games. His favorite fun place is Kings Island. Avante also likes go-cart racing and whitewater rafting.</p>
+<p>He’s not a big fan of cats or dogs, but would be OK with one in his new family. He would like to have a snake.</p>
+<p>Avante would do best in a busy, active family.</p>
+<p></p>
+<p></p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/?post_type=kid&p=4398">Previous</a>
+                              <a href="https://www.hckids.org/kid/giovanni/">Next</a>
+          
+
+                   </div>
+
+    </div>

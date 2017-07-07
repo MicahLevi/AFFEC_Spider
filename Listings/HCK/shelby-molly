@@ -1,0 +1,43 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/shelby-and-mollyweb.jpg" />
+            <a href="/children/request-more-information/?child-name=Shelby, Molly&child-id=Siblings&case-worker-email=osborc05@jfs.hamilton-co.org&recruiter-email=" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Shelby, Molly</h2>
+            <h4>Born February 2003, August 2006</h4>
+            <p>These two pretty sisters get good grades and enjoy school.</p>
+<p>Shelby’s favorite class is social studies. She likes to listen to Debbie Ryan, Blake Shelton and Carrie Underwood. She would like to go to Disney World again and become a doctor when she grows up.</p>
+<p>Molly likes pop music, likes to ride her bike and watch <em>Henry Danger. </em>She describes herself as happy and says her favorite color is blue. She’d rather play outside than inside and likes to read books about Clifford, the big red dog.</p>
+<p></p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/katelyn/">Previous</a>
+                              <a href="https://www.hckids.org/?post_type=kid&p=4146">Next</a>
+          
+
+                   </div>
+
+    </div>

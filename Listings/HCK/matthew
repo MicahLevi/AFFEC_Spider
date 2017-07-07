@@ -1,0 +1,42 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/DSC_0356.jpg" />
+            <a href="/children/request-more-information/?child-name=Matthew&child-id=1099ibmf&case-worker-email=varisd@jfs.hamilton-co.org&recruiter-email=renick@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Matthew</h2>
+            <h4>Born October 1999</h4>
+            <p><span style="line-height: 1.5em;">Plunging down steep hills, zooming through tunnels and hanging upside-down is Matthew’s idea of a perfect day. This active teenager loves going to amusement parks because he likes the thrill of riding roller coasters. On the weekends or on his days off from school, you will find Matthew riding every single ride at Kings Island because it is his favorite fun place. Someday he hopes to travel to Disney World and ride all of their roller coasters.</span></p>
+<p>Matthew’s love of heart-stopping action doesn’t stop at the amusement park; he also enjoys watching scary movies. His other hobbies include playing video games, shooting hoops with his friends after school and listening to any song by his favorite artist, Michael Jackson. Matthew is a caring boy with a great sense of humor. He loves to make others laugh by telling funny jokes. When Matthew grows up, he wants to serve our country by enlisting in the Army.</p>
+<p>Matthew is a very sweet and loving young man who can’t wait to be adopted. He needs a stable and dependable forever family to care for him and give him consistency. Matthew wants to be adopted by a large family and he would like to have a dog.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/elijah-3/">Previous</a>
+                              <a href="https://www.hckids.org/kid/jeremy/">Next</a>
+          
+
+                   </div>
+
+    </div>

@@ -1,0 +1,56 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="HBeeK4jHym/rJCFS8czBBUAv2p5H1hSmpiioW70NUQDpywc7J0j2nesLB0G5IVbogaPoHbV+f1mDNTLuJGIorpzR6SEHuuChZv0XuNovHQvwvoOryv2AITD49glgYQ/wIVPHl3AUmv52/0QaNsrSkEQ6Xrkq5fCl2Xs8fX12/Qbk25iYvIPVHdZ4ntCZ2Ddt1Gzn0oxyU9mmN3nxGTPyUnCmcKgvHQ3TEpjXPrB8cAqNhPOTMAwPZ9yCK0GRc6ubj8nVJx6n2tBCY2w7ydgnuHkHBnxWSeCxMZ8HfQXpQ33YDaknE6pkae3advpu4rXMFlgFJYxQ05HIaW4p+YnIEy4VdCjbhifD9hcDQ7sUqcgQPI8tsjgYV9jW6fj5YmrHKeRzz59McxL3LMI1UIME9EpKlH0Q6UGxf/zWMXoXlcbVtTa10UL/fWnyGFTR/jaVWRhMaV/02pA3FZffoIPZqVSdc6duhlmi5sKl868fwl3MDo+D3xokhnpPISKKohyW467+2zZxsSHjA+G20KhavYWZR+cIXtI0OQgep9p9rgkrOLjuPi37BXLO2MeboiKhjAoZLRGq2jWTjpbQAEiu/g1vGXK4OutbReHzt6eRM0YHLQzjgX8EF6SjPXfqr5bQkGDeTqJqffrKRE3LlJ2uDjEbWmywUEWDkk9euccvj7QW3Jd70pC9z5RygQqI53W97sKlCHAYOaV6TCVCenmYWjQCzvcXFfGLPjUL296Nhr5UXOq2TZjaUlt7SUZjZ32nFcIyrQeGOwnOgwOVVLSjtnDrCbY1U3LLAgA5WvkPZMVth9TfbPdZdyrKUkWBmP96ly4rmlXcJluWs7eCwr8Y3TJI45DdUlddtd2WtfEMU5Dd0q087Y6pC8pkHcqWugYg/dEFMihWqyIjqxZb9IVD7fxK2RoB33HeNNEnbLvfJT23iJUeXCSoQbGvHRmPHEjHTuM2G7aZPHGKSsDBkKHHsh4Dv9qhTCIu2hTEDRakrjqIivXaYoh68F11JtqJs92k1FvZl4fJ5G4eiWIFrK+4Jg6jPvHGsNa/L4K3WWGumReBRGshCxa/a0fGG/DjWTR6oDBapK0nP0YrhZvHb8kACQfs9ZSEB7yVSIxZzgjve0ukFbjIjFgdr8qSSwiPXbtp7U0F4zV2veyeZ9lvaMZrftfXagF9zS4DhdLZCBBlPwo91+iGTmdWEyFbbq/vB3DZkSjDJXpjfAuvsLpTWPyni3JQ9v0qXlBIBH0TpFR0WnGZp3SF7+8K8hX+hFGvUKSClqgOjKq5NMfKmR2f9AmBy8kTQAxWXBYlnd7CaLDx5ep35YFPo5SxDQVtYJVJCq8DqD2DuDm8+wEUzTPDR3ZLGPniakqTbkGF7gf44zDc05DjIewAtaMPhk35FO0rbLptt5QSmuhnnkbUZ09WqtUbuLFVK3obEFKYupkjcj5QdtqaxR8CWGhgrCG9U2Z4SbocE25+TFK9HbpWBxljbFWEnhelWeUcuPS9kbnmmB502vC21ov5wflSuu/SPZnWgEDiVhTuuluEZI85I3rH5SsExtMp0q0rdqxcx/23wrjPVkcA2FGtMcMYOS9/ehJUAoywxziv0iiFnHlDISFsX21Vs5RCsP6+HtHpkxjRSFqECIcdh9Be1BO+//7rHcOIy261J1WWPew0zHZOkGPyi+e/77RyC7Od3kTwTDvLTcREzXaqT5fzP9LfwDldOMTTmeHGnqLrllGJl+euS5fxydGbdt69e/CQ7/U6KNzpSEbEI8HtegqxI6/xWWCq1r+g912EdYLcPQCLMfUs16ht7ucLOOQm7RB2AmLGnNDJvuaOxFc=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Jasmine.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">Moderate</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Moderate</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">Mild</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Jasmine &kidNum=9379">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Jasmine is a resilient and sweet child, who can be very cunning at times.  Jasmine is described as a very smart, funny and outgoing child. Jasmine loves to spend time with peers, and is very social. Jasmine enjoys playing outside, going swimming, singing and dancing.<p><p>
+
+Jasmine is doing very well in school this year, and receives services to help with math and science. Jasmine enjoys helping around the house and doing small task, such as cleaning off the table after dinner. Like most children, Jasmine does need reminders about getting in the shower and brushing her teeth.<p><p>
+
+Jasmine is looking for a two-parent household, with parents that are knowledgeable and committed to helping her reach her best potential. Parents that are also open to trying different strategies to meet her needs. Jasmine is in search of a family with older children in the home.  Jasmine does have a biological sister in out-of-home care and is seeking a family that is committed to remain connected with her sister through visitation.<p><p>
+</span>
+                </div>
+            
+    </div>
+    

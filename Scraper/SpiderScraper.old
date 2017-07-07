@@ -1,0 +1,527 @@
+<?php
+	/* General Spider Scraper
+	 *   Scans a website for updates to a child's listing.
+	 *   Checks the sha1 sum of a page's html versus the last scrape,
+	 *   and saves each page's source to an html file.
+	 */
+	 define('SPIDER_LISTING_DIRECTORY', dirname(__DIR__) . DIRECTORY_SEPARATOR . 'Spider_Listings' . DIRECTORY_SEPARATOR);
+	 require_once(dirname(__DIR__) . '/public_html/php/simple_html_dom.php');
+	 
+	 /* DEBUGGING:
+	  *   DEBUG (0-3)
+	  *	    0: None
+	  *		1: Display Results of calls within ScrapeSite()
+	  *		2: Display Results of pattern matching
+	  *
+	  *	  DEBUG_CHILD_LIMIT
+	  *     Limits how many children will be retrieved
+	  *
+	  *   CLEAN_DIRECTORY
+	  *     0: Do Nothing
+	  *     1: Delete Old Directory before beginning 
+	 */
+	 define('DEBUG_CHILD_LIMIT', 25);
+	 define('DEBUG', 3);
+	 define('CLEAN_DIRECTORY', 1);
+	 
+
+	/* Abstract Parent Class for all scraper types
+	 *
+	 * Handles the overarching calls to navigate through listings, find child pages, and compare changes
+	 *   made in child class calls to findListings() in order to determine what changes have been made
+	 *   to a site.
+	 *
+	 * @properties
+	 *		REQUIRED:
+	 *		String  $name					Determines the name for this spiders files
+	 *		String  $first_page				First page of listings to start from
+	 *		String  $next_page_format		If not blank, the next page link will be generated using sprintf
+	 *		
+	 *		OPTIONAL:
+	 *		String  $listing_format			If not blank, links to listings will be generated using sprintf
+	 *		Boolean $single_page			Set to true if all listings or listing links come from the first page
+	 *		Boolean $generate_next_page		Set to true if the link to the next page is generated instead of found
+	 *		Boolean $id_from_link			Set to true if the link to a child's profile contains their stateId
+	 *		Boolean $no_dedicated_listings  Set to true if child profiles do NOT have their own page
+	 */
+	class Basic_Scraper {
+		protected $next_page_format;
+		protected $listing_format;
+		protected $name;
+		protected $first_page;
+		protected $single_page;
+		protected $generate_next_page;
+		protected $id_from_link;
+		protected $no_dedicated_listing;
+		
+		protected $pattern_matching_method; //0: REGEX, 1: HTML_DOM
+		
+		//Functions for customized parsing of website html
+		//abstract protected function scrapeListings($html_listings, $directory);
+		//abstract protected function findNextPage($html);
+		//abstract protected function findListings($html);
+
+
+		function __construct($website_abbreviation, $first_page_link, $single_page = false, $generate_next_page = false,
+							 $id_from_link = false, $no_dedicated_listing = false, $next_page_format = '', $listing_format = '') {							
+			if ($website_abbreviation == '')
+				throw new Exception('Scraper requires the name of the website to initialize');	
+			if ($first_page_link == '')
+				throw new Exception('$first_page_link cannot be empty');
+			if (!is_bool($single_page))
+				throw new Exception ('$single_page must be a boolean');
+			if (!is_bool($generate_next_page))
+				throw new Exception ('$generate_next_page must be a boolean');
+			if (!is_bool($id_from_link))
+				throw new Exception ('$id_from_link must be a boolean');
+			if (!is_bool($no_dedicated_listing))
+				throw new Exception ('$no_dedicated_listing must be a boolean');
+			
+			$this->name               	= $website_abbreviation;
+			$this->first_page         	= $first_page_link;
+			$this->single_page        	= $single_page;
+			$this->next_page_format		= $next_page_format;
+			$this->listing_format     	= $listing_format;
+			$this->generate_next_page	= $generate_next_page;
+			$this->id_from_link		  	= $id_from_link;
+			$this->no_dedicated_listing = $no_dedicated_listing;
+		}
+		
+		
+		/* Scrapes information from listing pages and saves the child's information
+		 *   to the filesystem
+		 *
+		 * Returns an array of Child State ID's corresponding to the filenames in this state's
+		 *   SpiderListings Directory for children who have been updated or added since last run.
+		 */
+		public function ScrapeSite() {
+			$this->my_log("Starting Scrape", 1);
+			$directory = SPIDER_LISTING_DIRECTORY . $this->name;
+			if (file_exists($directory)) {
+				rename_win(realpath($directory), realpath($directory) . '_last_run');
+			}
+			mkdir($directory);
+			$current_page = $this->first_page;
+			$listing_count = 0;
+			
+			//Find the child listings on this page
+			do {
+				$found_new = false;
+				$html = PageRequest($current_page);
+				$num_found = $this->scrapeListings($html, $directory);
+				if ($num_found > 0) {
+					$found_new = true;	
+					$listing_count += $num_found;
+				}
+				else {
+					$this->my_log("Found no listings on page $current_page", 1);
+					break;
+				}
+				//All listings are on current page
+				if ($this->single_page) {
+					$this->my_log("Stopping On First Page", 1);
+					break;
+				}
+				//Look for a link to the next page
+				if (!$this->generate_next_page) {
+					$current_page = $this->findNextPage($html);		
+				}
+				//Create a link to the next page
+				else
+					$current_page = sprintf($this->next_page_format, $listing_count);
+				$this->my_log("Found next page : $current_page", 1);
+			} while ($found_new && count($upd_listings) < DEBUG_CHILD_LIMIT);
+			
+			$this->my_log("Scrape Completed, found " . $listing_count, 1);
+			return $this->CompareListings();
+		}
+		
+		
+		/* Compare the data files for children and check for adds/removes/updates
+		 *
+		 * Runs after the main scraper function has saved the children's listings to the filesystem.
+		 *   Compares the files from the Spider's Listing Directory to the Directory from last run,
+		 *   by using a sha1 hash on the contents to determine if a child has been updated or added
+		 *   since last run.
+		 * 
+		 * Returns an array of Child State ID's corresponding to the filenames in this state's
+		 *   SpiderListings Directory for children who have been updated or added since last run.
+		 */
+		public function CompareListings() {
+			$updates = array();
+			
+			
+			$new_directory = SPIDER_LISTING_DIRECTORY . $this->name;
+			$old_directory = $new_directory . '_last_run';
+			$new_hashes_loc = SPIDER_LISTING_DIRECTORY . $this->name . '_hashes';
+			$old_hashes_loc = $new_hashes_loc . '_old';
+			$new_hashes = array();
+			$old_hashes = array();
+			
+			if (!file_exists($new_directory))
+				throw new Exception("CompareListings failed to find the directory $new_directory");
+			
+			foreach(scandir($new_directory) as $f) {
+				if ($f != '.' && $f != '..') {
+					$new_hashes[$f] = sha1(file_get_contents($new_directory . DIRECTORY_SEPARATOR . $f));	
+				}
+			}
+			
+			//Get file hashes from last run
+			if (file_exists($old_directory)) {
+				//Generate old hashes
+				if (!file_exists($new_hashes_loc)) {
+					foreach (scandir($old_directory) as $f) {
+						if ($f != '.' && $f != '..')
+							$old_hashes[$f] = sha1(file_get_contents($f));
+					}
+				}
+				else
+					$old_hashes = unserialize(file_get_contents($new_hashes_loc));
+					
+				if (!file_put_contents($old_hashes_loc, serialize($old_hashes)))
+					throw new Exception ("CompareListings failed to record the new hashes");
+			}
+			
+			if (!file_put_contents($new_hashes_loc, serialize($new_hashes)))
+				throw new Exception ("CompareListings failed to record the new hashes");
+			
+			//Find Deleted files
+			if (!file_put_contents($this->name . '_deletes', serialize(array_diff_key($old_hashes, $new_hashes))))
+				throw new Exception ("CompareListings failed to record deleted pages");
+			
+			//Find Added or changed files
+			foreach ($new_hashes as $new_file=>$new_hash) {
+				//Check for updates
+				if (array_key_exists($new_file, $old_hashes)) {
+					if ($old_hashes[$new_file] != $new_hash)
+						$updates[] = $new_file;
+				}
+				//New child
+				else
+					$updates[] = $new_file;
+			}		
+			return $updates;
+		}
+		
+		/* Error handling function */
+		public function my_log($error_string, $debug_level) {
+			if (DEBUG >= $debug_level) {
+				//error_log($error_string . "\r\n", 3, 'error_log_' . $this->name);	
+				echo $error_string . "\r\n";
+			}
+		}
+	}
+	
+	
+	
+	
+	
+	class DOM_Scraper extends Scraper {
+		
+		private $find_listing;
+		private $find_profile;
+		private $find_stateId;
+		private $find_next;
+		private $extract_id;
+		private $find_listing_link;
+		
+		
+		function __construct($website_abbreviation, $first_page_link, $find_listing, $find_stateId, 
+							 $find_listing_link, $extractId = '', $id_from_link = false, $listing_format = '',
+							 $find_profile = '',  $generate_next_page = false, $find_next = '',
+							 $no_dedicated_listing = false, $next_page_format = '')
+		{
+			$single_page = false;
+			if ($find_next == '')
+				$single_page = true;
+			parent::__construct($website_abbreviation, $first_page_link, $single_page, $generate_next_page,  
+								$id_from_link, $no_dedicated_listing, $next_page_format, $listing_format);
+			$this->find_listing = $find_listing;
+			$this->find_listing_link = $find_listing_link;
+			$this->find_stateId = $find_stateId;
+			$this->find_profile = $find_profile;
+			$this->find_next = $find_next;
+			$this->extract_id = $extractId;
+		}
+		
+		
+		public function scrapeListings($html_listings, $directory) {
+			$count = 0;
+			if ($this->no_dedicated_listing) {
+				$profile_htmls = $this->findListings($html);
+				foreach ($profile_htmls as $id=>$p) {
+					if (!file_exists($directory . DIRECTORY_SEPARATOR . $id)) {
+						file_put_contents($directory . DIRECTORY_SEPARATOR . $id, $m);
+						$count++;
+					}
+					else
+						$this->my_log("Found Duplicate: $id", 2);	
+				}	
+			}
+			
+			else {
+				$html_listings = $this->findListings($html_listings);
+				if (count($html_listings) == 0)
+					$this->my_log("Failed to find listings for this page", 2);
+				foreach ($html_listings as $id=>$listing) {
+					$profile_html = PageRequest($listing);
+					$tree = str_get_html($profile_html);
+					$profiles = $tree->find($this->find_profile);
+					if (count($profiles) == 0){
+						$this->my_log("Failed to extract profile from child's page", 2);
+						throw new Exception("Failed to extract profile from child's page");
+					}
+					foreach ($profiles as $profile) {
+						if (!file_exists($directory . DIRECTORY_SEPARATOR . $id)) {
+							file_put_contents($directory . DIRECTORY_SEPARATOR . $id, $profile->innertext);
+							$count++;
+						}
+						else
+							$this->my_log("Found Duplicate: $id", 2);
+					}
+				}
+			}
+			return $count;
+		}
+
+		
+		public function findNextPage($html) {
+			$tree = str_get_html($html);
+			$link = $tree->find($find_next);
+			if ($this->next_page_format == '') {
+				if (isset($link->href))
+					return $link->href;
+			}
+			else
+				return sprintf($this->next_page_format, $link); 	
+			return '';
+		}
+			
+		
+		public function findListings($html) {
+			$tree = str_get_html($html);
+			$links = array();
+			$listings = $tree->find($this->find_listing);
+			if (count($listings) == 0)
+				$this->my_log("Found No listings for this page", 3);
+			foreach ($listings as $listing) {
+				//Find the link to the child's profile
+				$link = $listing->find($this->find_listing_link);	
+				$id;
+				if (isset($link) && count($link)>0/* && isset($id) && count($id)>0*/) {
+					if ($this->id_from_link)
+						$id = $link[0]->href;
+					else {
+						$id = $listing->find($this->find_stateId);
+						if (!isset($id) || count($id) == 0)
+							throw new Exception ('Failed to find child Id');
+						$id = $id[0]->innertext;
+					}
+					$link = $link[0]->href;
+					if ($this->extract_id != '') {
+						$matches = array();
+						if (preg_match('/' . $this->extract_id . '/is', $id, $matches)) {
+							$id = $matches[1];
+						}
+						else
+							throw new Exception ("Failed to extract child State Id from $id");
+					}
+					$this->my_log("Found Child Id: $id, with link $link", 3);
+					if ($this->listing_format == '')
+						$links[$id] = $link;
+					else
+						$links[$id] = sprintf($this->listing_format, $link);
+				}
+				else {
+					throw new Exception ("Failed to find a child State Id or link");
+				}
+			}
+			return $links;
+		}
+	}
+	
+	
+	class REGEX_Scraper extends Scraper {
+		private $find_listing;	// finds link to the listing
+		private $find_profile;	// finds child information on listing page
+		private $find_next;		// finds link to the next page
+		private $id_first;		// determines if matches finds id then link or link then id
+		
+		
+		function __construct($website_abbreviation, $first_page_link, $find_profile, $id_first = false,
+								$generate_next_page = false, $id_from_link=true, $no_dedicated_listing = false, $find_listing = '', $find_next = '',
+								$next_page_format = '', $listing_format = '') {
+		
+			$single_page = false;
+			if ($find_next == '')
+				$single_page = true;
+			parent::__construct($website_abbreviation, $first_page_link, $single_page, $generate_next_page, $id_from_link,
+									$no_dedicated_listing, $next_page_format, $listing_format);
+			$this->find_listing = $find_listing;
+			$this->find_profile = $find_profile;
+			$this->find_next = $find_next;
+			$this->id_first  = $id_first;
+		}
+		
+		
+		public function scrapeListings($html, $directory) {
+			$count = 0;
+			if ($this->no_dedicated_listing) {
+				$profile_htmls = $this->findListings($html);
+				foreach ($profile_htmls as $id=>$p) {
+					if (!file_exists($directory . DIRECTORY_SEPARATOR . $id)) {
+						file_put_contents($directory . DIRECTORY_SEPARATOR . $id, $p);
+						$count++;
+					}
+					else
+						$this->my_log("Found Duplicate: $id", 2);	
+				}	
+			}
+			else {
+				$html_listings = $this->findListings($html);
+				foreach ($html_listings as $id => $listing) {
+					$this->my_log("Visiting page $listing", 3);
+					$profile_html = PageRequest($listing);
+					$matches = array();
+					if (preg_match_all('/' . $this->find_profile . '/iUs', $profile_html, $matches)) {
+						foreach ($matches[1] as $m) {
+							if (!file_exists($directory . DIRECTORY_SEPARATOR . $id)) {
+								file_put_contents($directory . DIRECTORY_SEPARATOR . $id, $m);
+								$count++;
+							}
+							else
+								$this->my_log("Found Duplicate: $id", 2);
+						}
+					}
+					else
+						$this->my_log("No Matches Found", 2);
+				}
+			}
+			return $count;
+		}
+		
+		
+		public function findNextPage($html) {
+			$matches = array();
+			if (preg_match('/' . $this->find_next . '/isU', $html, $matches)) {
+				if (array_key_exists('1', $matches)) {
+					if ($this->next_page_format == '')
+						return $matches[1][0];
+					else {
+						return sprintf($this->next_page_format, $matches[1][0]); 	
+					}
+				}
+				return '';
+			}
+			throw new Exception ("REGEX Scraper failed to find a link for the next page");
+		}
+		
+		
+		public function findListings($html) {
+			$links = array();
+			$matches = array();
+			if (preg_match_all('/' . $this->find_listing . '/isU', $html, $matches) && array_key_exists('1', $matches)) {
+				if ($this->listing_format == '') {
+					foreach ($matches[1] as $key=>$link){
+						if ($this->id_first)
+							$links[$matches[2][$key]] = $link;
+						else
+							$links[$link] = $matches[2][$key];
+					}
+				}
+				else {
+					foreach ($matches[1] as $key=>$local_id) {
+						if ($this->id_first)
+							$links[$matches[2][$key]] = sprintf($this->listing_format, $local_id);
+						else
+							$links[sprintf($this->listing_format, $local_id)] = $matches[2][$key];
+					}
+				}
+			}
+			else {
+				echo "Found no listings\r\n";	
+			}
+			return $links;
+		}
+	}
+	
+	
+	
+	//FIXME: Might want to be able to pass POST args
+	//FIXME: Might check for HTTP_CODE == 302
+	//FIXME: Might want another function strictly for logging in
+	//FIXME: Might want to be able to pass in a cookie file
+	//FIXME: Probably want to use a forloop like in spider1a.php
+	function PageRequest($url, $postfields = '', $cookie_jar = '') {
+		//echo urlencode($postfields);
+		$result = '';
+		try {
+		  //$agent = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.89 Safari/537.36";
+			$agent = "Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36";
+			$channel = curl_init();
+			curl_setopt($channel, CURLOPT_URL, $url);
+			curl_setopt($channel, CURLOPT_USERAGENT, $agent);
+			curl_setopt($channel, CURLOPT_RETURNTRANSFER, true);
+			curl_setopt($channel, CURLOPT_MAXREDIRS, 5);
+			curl_setopt($channel, CURLOPT_CONNECTTIMEOUT, 30); 
+			curl_setopt($channel, CURLOPT_TIMEOUT, 30);
+			curl_setopt($channel, CURLOPT_COOKIESESSION, true);
+			curl_setopt($channel, CURLOPT_COOKIEJAR, $cookie_jar);
+			//curl_setopt($channel, CURLOPT_FOLLOWLOCATION, true);
+			if ($postfields !== '') {
+				curl_setopt($channel, CURLOPT_COOKIESESSION, true);
+				curl_setopt($channel, CURLOPT_COOKIEJAR, $cookie_jar);
+				curl_setopt($channel, CURLOPT_POST, TRUE);
+				curl_setopt($channel, CURLOPT_SSL_VERIFYPEER, false);
+				curl_setopt($channel, CURLOPT_SSL_VERIFYHOST, false);
+				curl_setopt($channel, CURLOPT_POSTFIELDS, urlencode($postfields));
+			}
+			$result = curl_exec($channel);
+			curl_close($channel);
+		} catch (Exception $e) {
+			throw new Exception ("cURL error for page : " . $url . " : " . $e->getMessage());
+		}
+		if ($result == '')
+			throw new Exception('Failed to get webpage: ' . $url);
+		//UTF-8 is easier to deal with
+		$result = html_entity_decode($result, NULL,"UTF-8");
+		//Remove nbsp;
+		$result = str_replace(chr(0xC2) . chr(0xA0), '', $result);
+		return $result;
+	}
+	
+	function read_JSON($json_str) {
+		//if (substr($json_str, 0, 1) == '"' && substr($json_str, -1, 1) == '"')
+		$json_str = substr($json_str, 1, -1);
+		if (mb_check_encoding($json_str, "UTF-8")) {
+			$json_str = str_replace('\"', '"', str_replace('\\\\', '\\', $json_str));
+			$json_str = str_replace('\"', '"', str_replace('\\\\', '\\', $json_str));
+			$arr = json_decode($json_str, true);
+			$children = array();
+			foreach ($arr as $a) {
+				if (is_array($a)) {
+					foreach ($a as $child) {
+						$children[$child['ListingCode']] = $child;
+					}
+				}
+			}
+			return $children;
+		}
+		else 
+			throw new Exception("JSON string format must be UTF-8");
+	}
+	
+	function rename_win($oldfile,$newfile) {
+		if (!rename($oldfile,$newfile)) {
+			if (copy ($oldfile,$newfile)) {
+				unlink($oldfile);
+				return TRUE;
+			}
+			return FALSE;
+		}
+		return TRUE;
+	}
+	
+	
+?>

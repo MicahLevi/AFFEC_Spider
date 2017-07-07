@@ -1,0 +1,44 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Sydney-6-2014-e1404227572348.jpg" />
+            <a href="/children/request-more-information/?child-name=Sydney&child-id=0900igbd&case-worker-email=robers04@jfs.hamilton-co.org&recruiter-email=larys@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Sydney</h2>
+            <h4>Born September 2000</h4>
+            <p><span style="line-height: 1.5em;"><a href="https://www.hckids.org/wp-content/uploads/IMG_3065-e1404229962446.jpg"><img class="size-medium wp-image-1061 alignright" src="https://www.hckids.org/wp-content/uploads/IMG_3065-e1404229962446-216x300.jpg" alt="IMG_3065" width="216" height="300" srcset="https://www.hckids.org/wp-content/uploads/IMG_3065-e1404229962446-216x300.jpg 216w, https://www.hckids.org/wp-content/uploads/IMG_3065-e1404229962446-738x1024.jpg 738w" sizes="(max-width: 216px) 100vw, 216px" /></a>This teen’s dream is to become famous. Sydney wants to be a singer, actress and a dancer when she grows up. Her favorite genres of music are pop and R&B; and her favorite artists are Beyonce and Trey Songz. Sydney has a great sense of humor and her funny wit makes people smile. This smart and bold girl enjoys watching movies like <em>Friday</em> and <em>Madea’s House of Pain</em>.</span></p>
+<p>This intelligent young lady is very proud of her good grades in school. Her favorite subject is math because she likes to do addition and multiplication. During vacations from school, Sydney likes to cook her favorite meal, chicken. She enjoys playing <em>Call of Duty</em> and spending time with family. She also enjoys riding the rides at Kings Island and roller skating at Fun Factory.</p>
+<p><img class=" wp-image-1064 alignleft" src="https://www.hckids.org/wp-content/uploads/Sydney-1-4-2014-300x254.jpg" alt="14 project.  Photo shot Wednesday  April 30, 2014. The Enquirer/Cara Owsley" width="270" height="229" srcset="https://www.hckids.org/wp-content/uploads/Sydney-1-4-2014-300x254.jpg 300w, https://www.hckids.org/wp-content/uploads/Sydney-1-4-2014-1024x869.jpg 1024w" sizes="(max-width: 270px) 100vw, 270px" /></p>
+<p>Sydney is willing to help out around the house. This responsible girl will clean her room, take out the trash, and do the dishes.</p>
+<p>Sydney says she would love a family with pets, especially dogs and kittens. She would also like to be adopted by a family with younger children so she can be a big sister.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/breuana/">Previous</a>
+                              <a href="https://www.hckids.org/kid/jayvonna/">Next</a>
+          
+
+                   </div>
+
+    </div>

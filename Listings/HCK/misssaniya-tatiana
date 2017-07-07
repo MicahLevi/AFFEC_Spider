@@ -1,0 +1,43 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/MissSanyia-TatianaE.jpg" />
+            <a href="/children/request-more-information/?child-name=MissSaniya, Tatiana&child-id=siblings&case-worker-email=&recruiter-email=thompe02@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet MissSaniya, Tatiana</h2>
+            <h4>Born August 2005, May 2009</h4>
+            <p>MissSaniya, 11 and Tatiana, 8 are looking for a home where they can be together.</p>
+<p>MissSaniya, who prefers to be called Saniya, is a bright, young girl who does well in school. She enjoys playing sports – especially basketball – with her friends. She is a great big sister and enjoys being a role model for her younger sister.</p>
+<p>Tatiana likes to play outside, read books and play with her Shopkins. She does well in school and definitely strives to be her best.</p>
+<p>These beautiful sisters would do best in a home that lives an active, structured lifestyle.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/katelyn/">Previous</a>
+                              <a href="https://www.hckids.org/?post_type=kid&p=4146">Next</a>
+          
+
+                   </div>
+
+    </div>

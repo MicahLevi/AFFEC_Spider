@@ -1,0 +1,50 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Gabe.jpg" />
+            <a href="/children/request-more-information/?child-name=Gabe&child-id=0103ibgs&case-worker-email=ryanm02@jfs.hamilton-co.org&recruiter-email=osborc05@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Gabe</h2>
+            <h4>Born January 2003</h4>
+            <p><a href="https://www.hckids.org/wp-content/uploads/151.jpg"><img class=" wp-image-2497 alignright" src="https://www.hckids.org/wp-content/uploads/151.jpg" alt="151" width="210" height="302" /></a>Most kids, at 11, say they want to grow up to be a superhero, or a policeman or something like that. Gabe doesn’t have any such list. He says he’d just really like to be a dad.</p>
+<p>He doesn’t like school too much, but he’s pretty good at it. He gets As, Bs and some Cs. He likes math and gym.</p>
+<p>Gabe also likes cooking. His favorite meal is grilled cheese and pumpkin pie with whipped cream. He’ll wash all that down with Dr. Pepper or chocolate milk.</p>
+<p>He also likes going to sporting events, especially football games. His favorite colors are orange and black– perfect for the Bengals fan that he is. He listens to Lil Wayne and likes to watch superhero television shows. His favorite animal is the cheetah because it’s fast.</p>
+<p>Gabe’s willing to help with his chores. He uses the vacuum, picks up his clothes and sweeps and mops.</p>
+<div><a href="https://www.hckids.org/wp-content/uploads/148.jpg"><img class=" wp-image-2496 alignleft" src="https://www.hckids.org/wp-content/uploads/148.jpg" alt="148" width="502" height="450" /></a></div>
+
+        </div>
+                <div class="child-video">
+            <h2>Watch Gabe's Video</h2>
+            <iframe src="https://www.youtube.com/embed/8y-Q_ifMv04?rel=0&wmode=transparent"></iframe>
+            <!--  <iframe src="https://www.youtube.com/embed/8y-Q_ifMv04?rel=0&list=PLA8E76E098D1E9169" ></iframe> -->
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/giovanni/">Previous</a>
+                              <a href="https://www.hckids.org/kid/marcus/">Next</a>
+          
+
+                   </div>
+
+    </div>

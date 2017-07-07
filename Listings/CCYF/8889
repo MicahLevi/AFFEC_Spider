@@ -1,0 +1,55 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xp4ewjQRjZc1ZAhPl87Su253qbOFIgn3Dp9YoGsFqA+DJkkFRLddMEadfYgbmdqzhBI3+N5SwBaNBl6gK9G3iYjRnvB6MLkov6rw4c9J8Xbt4v+Mg9luYj8obRVx8qiPiNplA0j4WuRQeJi+8K2JIjRxhrAr7PvSAib4AGjER/2YwuVHiMIbVQA9+yxgWGzYystcTT6haTydj6ns3yhfqJOqyB2++6+jEkZergRrARSUqTCjzhkfjd/aBvDvjbkH+ufuN3WggaD+GTAN/0YowUToH+X9vl0c91a+ffVijMpU0+c8FcjKjjr0DF7pI9CPUT1xXc0m796rxx8tUicfzyug0g5OAz9wbdwCYB7FJTfyaYzOpLXUCGuonQkQR80D8r3udRqbpDioPBO/VGlhJPMMihrPaC2WUGbGBSMuxDf45V0W+N+iAeN7sT0ANw4SuUutU7sj1YLnNtI0dkLzroPm+L7vxU55lypIZp/VMn2HlilqBc5B9gW9Bzejg3a1iyymiZdFyAo04GJN3o6NkMnWP1U2W8XYhFOIrageCzW1iEax+SvC5oQI2Dl/zV/nCCz5uXTqCqlYjEFELMvepNAmtbrtDsTbnwtwUxFHsI0S26+Ar+06eK+XwmQcbx6lUIBRHxAz58eiCT7VNVO/vLqrSXSOmqs4sTG0kwP6fauYWGgZ76V1Cc9LO+smZChOjxvbUIac5CMm2yMeCclLXHCZWrYcnJbtONDs6zJK9tADpbaPHhW2eUumimVWn8WIzHsmOxAo3Z3LjbVGg01yfp+XWPi4go/ku9rmM8kT5W9Byf6mg0mkLyiNaCyN4u2ncwR2fXBK+BPGkrr3DI9O4PVFxBlJVeRNMnqBBHaBrXQCa6l05VY7TxOQ47hJjxf2aafXET42xY4C3MpfikRWu4hAH7ZHMMXL/nb7HCCOkEKkTXZ/nw7ll2anFulsyxwsFklNllhdwOfC2Krb7iSCCWJ8i+lb5vyyiWNkXbHB31V4xQuQXnHIeNjoPEmeHwj4wGJbheFVNfjyxU3hkqRDE/10UABsHhTWWhfv88tlnAnoNoOpvNY8rgb47XbiRULzSI/3/DRC6+vKmXCTo/Xg6qrL/UiUt1G3nVnFKcHA1I8aBxF6o8IpFBhj5pH/FG2zRQclJtLCHjLcStekY3HLx4w0G5JFZuWI9gtlvXnGli2QJl9Eixcu2cyZXeP1dPmWgbPmqxIyColqQp/lh/CEPvg96humzYI3WMQTQfIhjdHMaczrluizr6mVDLzoa5pBadrGEwhdOmAiOvQ4FBzwWNS22k3YxnuHw1+MFIP1Uimq7iuRmaH9S9QgI45+C9DsC9eMC09Gl/aWf9YvgB8BfUP9Tz9snUjou1IhXsLk+n02teuGP1BwpGLCF2nX4hf4fyiBWZDSPubqCiupVZHae8mY8UR5qfQi560zq/+ZwkL5kAXi1w8x4tedG56FDlRs+Aknvv5KgBBSBipt9XYLyfBb8+ZW8f3GS/jw1FDt0Hy4GWaUEvMGg5SafuJZenvkrtrcSNt5yjw3A8/ComTK/sbIi1VR4Hc+SKVd6j0qt2iwpFCokmtcQoetPf7Hvnzk+LlKnF7YdKuzZjqdnTCGFXPYPVJcCDOLqAhNJHBRnQ2JvLpKg3/ssSuiNCmIkoMmFMqdL1fLPRWA0oKnoE2JGULcPmo0rs3t4kS6NRHSI6gNf/CTnbVagvKua/MGYdU6viPVmmX0nEa3YkQljjeS7p01NfDrJF7mWExUogHxPqQLOMSpS1NWbQz701LGe7ec95v2q9vv0uzjfv7KFy+ykQ==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Jamie%20PhotoB.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">Mild</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Moderate</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">Mild</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Jamie&kidNum=8889">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Jamie has blonde hair and blue eyes. He is a kind-hearted and caring individual. Jamie is easy to get along with, and leads an active lifestyle. He is looking for a family who will make a lifelong commitment to helping him reach his immense potential.<p><p>
+Jamie is an active teenager who loves to play sports and enjoy the outdoors. This past year in school, he participated in cross country and track and field. He was also a member of the wrestling team. He is lively, full of energy, and enjoys staying busy. Jamie likes to cook and help out in the kitchen. Like many teens, he gravitates toward junk food, but he also enjoys making healthy food choices and helping to cook a healthy meal.<p><p>
+Jamie thrives and is able to accomplish a lot with patient supervision and guidance in a structured environment. He is looking for a family who will be encouraging of his contact with his two siblings and his current foster family. He likes animals of all kinds and he would do well in a home with pets.<p><p>
+
+</span>
+                </div>
+            
+    </div>
+    

@@ -1,0 +1,42 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Max-7-28.jpg" />
+            <a href="/children/request-more-information/?child-name=Max&child-id=0216IBMB&case-worker-email=HARRIT05@JFS.HAMILTON-CO.ORG&recruiter-email=ADOPTION@JFS.HAMILTON-CO.ORG" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Max</h2>
+            <h4>Born February 2001</h4>
+            <p>Max is a respectful, energetic young man who is looking to be a part of a fun and active family. He enjoys going to the park and playing any kind of game that is available. Max enjoys playing mid-field in soccer but also likes to watch football and basketball on TV.</p>
+<p>Aside from playing sports and being outside, Max likes to play video games. His favorite games are Call of Duty 2 and 3. Max enjoys listening to rap music as well. His favorite artists are Migos and Kevin Gates. When it comes to food, Max loves chicken wings.</p>
+<p>School is really important to Max as well. His favorite class is science and would like to become an Entrepreneur one day.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/goldeci/">Previous</a>
+                              <a href="https://www.hckids.org/kid/christopher/">Next</a>
+          
+
+                   </div>
+
+    </div>

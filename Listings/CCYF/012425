@@ -1,0 +1,54 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Xi/FWT3DJINBnwoRqaJpATuheOLE5atETnHQ++dCzRU9n5GUAeE1Ci56wpA/xc6mRALBVozkbmXYJhDkFw1vJlgFiTwMurFMadjq+WAU2bf6AnRcTzUkcMErj123Sm8H1OMOZ5BKuy7T0+bRmqiuH5LYT12/OT7tFtan3YkabMV1sX8OhSuCEFD96hxPK74+AWwE7JCZ5NnSylzEqtf2P45UdHeUQd6m/fqkbAf3ISBvW18IrImmYUWSMK+D19sjWiCcXtWWUksOcLFEDlPPdKmzfZsaAAEFWMG5hywDcUTVGEfw5+RlqToGzy4Vv+BQ60yTO7DS9p/Rf1vVcnWfL3DgwszMMd3jPvSpHCKujBU9ZU5w04JvOjS4r3Q8bKN2/LNYNq+qHXRMudo4LsE1TuBZVaU3QoW9litEXJh16O43RHLdgkUL8ROCS4+4LrmkApJkpshCLIx7PJrgZ+U55k6fE16JyuxtCV5DeG9pJcT0xJEvgZCF0VVP20Q0hFLMxYHTVU/UWTHDbSBRgsaEdAYeqTLI2vxbUobKa4yZHms1Ez12T2Ai0aVHCRfRZzDgIBwRQKlUyy3PjchRjCmEilcD1igVRGZCSMH2psX8EUPjxQ4JJL3tzFZNHru8WztQnDLujE0Th2cFFLCUyaCOqa1Hdd9fNiQcZYF31C13z4GBkx/zwnNljxy5xfShn65ApAiKF14+Cd/id6Fnx2nWOTlkflFWiIPdNSvUQjofLbSow4ktDuMRCuXIqhKsDSoe3MYI6wlv4ZphSBx4G1epRQeL48rEjUqhF/yC0zVt6Knmwm+BwqKeV6fNS+2EO/rAy0XRhpulac1Ht67JRrOn1ArAGnE2x1DihXOX1QTP7IB/yBCxRyVG+LKPFpYNJMudgOXlqHoewTA8YL9cb0E6cLjwKu1yv3DSOhg5AmPRALWz83/9AMnRKOj15fxfi/hQYmOucrhEpMVs4glfU0mkPO3ohmOWwLVK7hQzyPair/p34DEwdpAENwkFl8+bVL+ZqO5ijSVNIE5uaLo6lmALo710d0WT7dE/XZL5Ez4dnSiNPy3MgocVi5GSN+/hLrVseppPE1hov9KrMWD3C60mLyQVzZYRv+k1WpIdIyinsBAQEC9rpYZCOsxtqjIArZJtqGPdnAc3ibcQuCu1gFmze7PiGT6QERQ/eDHYupC92jdF6T1WeEeqoOtNezkvQ6ylbvzQPiuldRoT85RQ4dZiXDExu3W0YlHk6n+PpjbVRcRsigOhLP3O6+sro6nYma/u4CJpbIgBoirtpPNKvpR1sARoCpy9Aw5QU5r2YMdfgLELJj1gh/vaGXGrBeHWPKxPvSxwdgy3f7s0Nzo2pmxz5+CvQyvtYzU2wIV72RKDZCWFDWH++JZz/Smixtjtsu916x5UgSsX1EhAOT7zbjd7/9+uB77m6qI7LPY+4eks6qdY45dYRthtRmAO4UZDdNI+RZle2U8CmUK8St/hoKWl7Od1RZKrcKtssIpSwx1uzUA=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Aerriona%20photo.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">Mild</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Moderate</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">None</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Aerriona&kidNum=012425">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Aerriona is a very outgoing and talkative young lady with a unique sense of humor! She takes pride in her appearance and wants to look presentable. Aerriona is goal driven and her caregivers describe her as quite responsive to structure and routine.<p><p>
+
+Aerriona loves the outdoors, playing sports, cooking, and cracking jokes to make others around her laugh. She does not like it when she has too much down time or is not able to be around birth family (biological mother and younger siblings), as these connections are extremely vital to her. Aerriona is yearning for a no-matter-what family that will be active, patient, structured, fun, and love her unconditionally. A single or two parent home in Wisconsin with older siblings would be the ideal no-matter-what family for Aerriona. 
+</span>
+                </div>
+            
+    </div>
+    

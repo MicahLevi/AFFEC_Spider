@@ -1,0 +1,43 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/tyresecalendar.jpg" />
+            <a href="/children/request-more-information/?child-name=Tyrese&child-id=0203ibtt&case-worker-email=ryanm02@jfs.hamilton-co.org&recruiter-email=osborc05@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Tyrese</h2>
+            <h4>Born February 2003</h4>
+            <p><span style="line-height: 1.5em;">Tyrese is a fan of oldies music, especially Michael Jackson. Put on some 80s music and he will listen to it all day and even add his own moves to the songs. Tyrese loves cartoons, especially <em>Shrek</em>, Disney movies, and anything on Cartoon Network or Nickelodeon. He enjoys playing sports and his favorite outdoor activity is dodgeball. This active young man also likes action-packed video games or board games.</span></p>
+<p><a href="https://www.hckids.org/wp-content/uploads/Tyrese-1-4-2014.jpg"><img class=" wp-image-2080 alignright" src="https://www.hckids.org/wp-content/uploads/Tyrese-1-4-2014-757x1024.jpg" alt="Photo shot Saturday  April 27, 2014. The Enquirer/Cara Owsley" width="286" height="387" srcset="https://www.hckids.org/wp-content/uploads/Tyrese-1-4-2014-757x1024.jpg 757w, https://www.hckids.org/wp-content/uploads/Tyrese-1-4-2014-221x300.jpg 221w" sizes="(max-width: 286px) 100vw, 286px" /></a></p>
+<p>Tyrese is very responsible and great at helping out around the house. Although he is very busy with many activities, he still finds time to help sweep the floor, take out the trash and clean his room. Tyrese loves to go to Kings Island, the mall or swimming. After a busy day of activities, he enjoys sitting down and eating a hamburger, french fries and a chocolate shake. Tyrese’s dream vacation would be to go to the beaches of Hawaii.</p>
+<p>Tyrese would love a mom and a dad, as well as brothers and sisters. He would also enjoy having a pet. Tyrese would do well in a family that likes to stay busy and can provide him with lots of attention and love.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/?post_type=kid&p=1574">Previous</a>
+                              <a href="https://www.hckids.org/?post_type=kid&p=163">Next</a>
+          
+
+                   </div>
+
+    </div>

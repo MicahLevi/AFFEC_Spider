@@ -1,0 +1,49 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/tylerweb.jpg" />
+            <a href="/children/request-more-information/?child-name=Tyler&child-id=1002sbta&case-worker-email=ryanm02@jfs.hamilton-co.org&recruiter-email=willim03@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Tyler</h2>
+            <h4>Born October 2002</h4>
+            <p style="text-align: center;"><a href="https://www.hckids.org/wp-content/uploads/Abrams-Tyler-DOB103020021.jpg"></a></p>
+<p style="text-align: left;"><span style="line-height: 1.5em;">Tyler is an energetic and sweet young man who would like an active family with pets or a few brothers he can play with. He loves to be outside where he can swim, ride his bike, shoot some hoops or jump on the trampoline. Tyler is on a basketball team and will play any position because he just likes to be in the game and run around with his friends. You can check out some of his basketball skills in the video below.</span></p>
+<p style="text-align: left;"><span style="line-height: 1.5em;"><a href="https://www.hckids.org/wp-content/uploads/Abrams-Tyler-DOB10302002.jpg"><img class="  wp-image-4459 alignright" src="https://www.hckids.org/wp-content/uploads/Abrams-Tyler-DOB10302002.jpg" alt="Abrams, Tyler DOB10302002" width="364" height="546" /></a></span></p>
+<p>Besides spending time outside and playing sports, Tyler also enjoys video games and superheroes. He likes to play with his PowerRanger action figures or pretend he is SpiderMan and save the world. On rainy days, he keeps up with his favorite superheroes by reading books and comics.</p>
+<p>Tyler is not always all fun-and-games. He also does very well in school. He enjoys learning and his favorite subjects are social studies and science. Tyler would love to have a family who will help him with his homework when he gets home from school. He would do well with a family that enjoys outdoor activities and one that can give him love and support.</p>
+
+        </div>
+                <div class="child-video">
+            <h2>Watch Tyler's Video</h2>
+            <iframe src="https://www.youtube.com/embed/Qu--FgCfdvs?rel=0&wmode=transparent"></iframe>
+            <!--  <iframe src="https://www.youtube.com/embed/Qu--FgCfdvs?rel=0&list=PLA8E76E098D1E9169" ></iframe> -->
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/michael/">Previous</a>
+                              <a href="https://www.hckids.org/kid/richard/">Next</a>
+          
+
+                   </div>
+
+    </div>

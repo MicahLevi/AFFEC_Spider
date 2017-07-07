@@ -1,0 +1,54 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="hHbkc426km/kpCWYRtRT51QuvcrmVjYtM82G8fYnxXZopDt3+D3/qr06QpoEllbLeaRFPTSYjk72KtfwCbcgipJFV0qazZBR/m2UMVU7udJ1aqHAR873IyWjbJN+K/jDN05lUNYAufabPkNf5BMFxAIgJ3Z+5gqtLrnSxTGuagsqbZBl276IA8YHD9O2/Eay9pJ0b5sXkmAXkeORnBONZ9G++NWUQTMphEFhKUrISDC+9VBmlrS59m7s0GDDDDyopQ3kUH71lQkLp2ay4hTRYz2KormiGaVgVPi5dv4NJYin7XiywwsuKuXsRHobkCp1MNbUw31vMCI9RbtY0NmXYmGTLjLq8Fuf1E4XspVcOD1ZQnC8GeR1FVdh8jeNqM3NPxrBej5X6i+XK7/JG2/UKqsqh3SwTlhDAuynd2DXOhPcE1XphSMTu9/1zRleEp3+N8vfDzadzxqZpfp2uo3tS0xbbqowwS5expN/DbT9Vt4+jzG79vXJw2wkqYPuWYk0/oHF4E+BYcPBoAlhMdc92uj8dXEVbdQWjMz3IPSIWIR2peRpu4N2xxgwjYW53Tsnmc+L0wCeHu7rpUgXnELuQsQbrF56G+brx4+eSZTOFUAH9mV3huIBvjkab7Lg0PYDB5ty3hEFyhS/uwXl0RMzu0N3bBJVefod0liXpj1dJnOb3XHBkBt+GRJlnpHu/yqZ+mpPjdyb99Sf7EzhLHtU1D9g/Wpc8Fo/f8j5s3hn6+NupCQ4O+KP29l0Jj3KtLxgaxookPbhdnJzQA/SOjREiiD/Lp1bUoCqAoMHdXfXCAZcBbeOv/PpPIrK+B9V+kmWfXDQACIvgFnTxdoBApZGgGmH3J/YzEyo0XIAz+pvBKrUzQqj1xVB/ViNt7zARrrRFKfmB40oBggxKs7KzmNcF3mUQ8rP4FcJqRjJ5OlPTjxEELtC1GpqBEZ73Rmm+HS1WSsSzDz7uPIb8lHYsSR7S339GddkonFYPu7aCKhv3uj+f78LoiabXMxPpNqTNffiNLN184uvlzOXm8XW4K1DUAd7UfD5MqybV6PbzI0SY/UBS73ygNkgxfcTVZa0CV2fewMC05iciHx8PmccERNITk/j6FbPaKlbUMj/6SWDCLot4VnIrGrWTSpLEdbBiuc4ueMG08fuLPpSm5HMOzMvuNnSCN8iHT5WehZxhtn+LZLo+wTvea4+9oOHB5v8Ao69cuOlH/Wu/kLFNWJ+FiwKjuGNn8sJgMxmRuEO11wMRa75XGxocb+ngw3p+uk9K07noqEQ11Qo89CUcWE58HvxrCyrvxL2quHmEf4J53/cQb/oGGgKkt7f/UzyKt454ycoyYlXe9L6XymqHZAop1ohnMNemDUpVgJuoN99Mb3xAo7uTBlazulY7ujGUYaKPvgGPpFU6FoSwfm3qJCVu1D2cUu8VUTc5KBIhItWbCbJ23byhZPD1OIHFWkt5pixBS9ka5eRZv5j/Mxi7bM38vNXyboVNvnyf+ZBkB1l6nxC5KeUUZr7VsYfMyQ5ZfPRD04af+sYzxp04mzSLYpnJRWDwIR7E4Zot80fHo1Q+SVrU+qa+hmEI2ZH/7gXCcoptHdZu4Y8kk1Z464Y48ncrleTcP+B711IU+9A4ivHlm1ODCZFEqia1nF+NwPRerX9Nx1SBa7OcLh68dCxmvHF1nVm8QMT2cVuiRAV1nLlFuzk5cgxaD+vZt46xk3OUfgivAo5gcUCIJ6osX2FmIWVKD/XW+eKySuanez/dziejzn5RPqOUG8UBH4rZw5M/iwRNYsj" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/NathanielA.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Moderate</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">Moderate</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Severe</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">Moderate</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Nathaniel&kidNum=10685">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Nathaniel is an endearing boy who has a lot of love to give to a family. He enjoys spending time outside, riding on his scooter, blowing bubbles, and swinging. He also likes playing with doll houses, and even doing chores. Nathaniel is an active participant in classroom discussions at school. <p><p> 
+Nathaniel is of African American and Native American heritage. He is an enrolled member of a tribe and the right family for him will preserve his connection to his tribe and ensure cultural connections are forged and maintained. <p><p>
+The best fit in a family for Nathaniel will have an active lifestyle, be very loving, and be able to patiently provide structure, stability, and predictability, which Nathaniel needs to heal and grow. He does best with one-on-one attention and close supervision for safety and guidance. It would be best for Nathaniel to be welcomed into a family who lives in Wisconsin or a surrounding state so he can maintain relationships that are important to him. 
+</span>
+                </div>
+            
+    </div>
+    

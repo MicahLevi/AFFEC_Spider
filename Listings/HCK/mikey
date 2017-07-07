@@ -1,0 +1,46 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Mikey-12-2014-2.jpg" />
+            <a href="/children/request-more-information/?child-name=Mikey&child-id=0901ibjm&case-worker-email=shannd@jfs.hamilton-co.org&recruiter-email=larys@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Mikey</h2>
+            <h4>Born September 2001</h4>
+            <p>Mikey is a very energetic and social young man who enjoys spending time with his friends. He likes going to friends’ houses, skating, or playing a game of basketball or football on the weekends. In the summers, Mikey loves going to camp. He also enjoys listening to rap artists, like Lil Wayne, and playing video games.</p>
+<p>Mikey likes playing football. He played for his middle school team last year and is looking forward to playing again this season.</p>
+<p>Mikey likes going to school and earns good grades. He would love a family that would help him improve his reading skills and help with his homework. Mikey is a quiet and respectful young man who keeps his room clean and is always willing to lend a helping hand with chores. When he grows up, Mikey wants to serve our country by joining the Army.</p>
+<p>Mikey is looking for a busy and active family that can give him support, help him reach his full potential and pursue his dreams.</p>
+<p></p>
+<p></p>
+<p style="text-align: center;">
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/dontay/">Previous</a>
+                              <a href="https://www.hckids.org/kid/trevor/">Next</a>
+          
+
+                   </div>
+
+    </div>

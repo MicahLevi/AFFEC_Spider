@@ -1,0 +1,41 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Darrellweb.jpg" />
+            <a href="/children/request-more-information/?child-name=Darrell&child-id=0126ibdj&case-worker-email=OSBORC05@jfs.hamilton-co.org&recruiter-email=adoption@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Darrell</h2>
+            <h4>Born January 2007</h4>
+            <p>Darrell is a caring young man who enjoys school and learning. His favorite class is Latin because he believes that learning a new language is fun. Darrell loves not only playing sports but watching sports as well. His favorite sports are football, basketball, baseball, and swimming. Darrell enjoys playing with kids his age and doesn’t have a preference over being indoors or outdoors. When playing outdoors Darrell loves Nerf guns. When indoors he enjoys watching funny cartoons, playing the Wii, card games, and musical instruments. On a special day Darrell enjoys going to Kings Island where he can ride roller coasters.</p>
+<p>Darrell is looking for a family that shares his love of pets. He would like his family to have other children around his age that he can play with. Darrell is a very active and adventurous young man who wants the same from his family. He enjoys house hold chores such as cleaning, cooking, and grocery shopping. Darrell is a young man who takes pride in helping others in his community, he has even donated money to the homeless.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/goldeci/">Previous</a>
+                              <a href="https://www.hckids.org/kid/christopher/">Next</a>
+          
+
+                   </div>
+
+    </div>

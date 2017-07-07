@@ -1,0 +1,44 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Dericosmall.jpg" />
+            <a href="/children/request-more-information/?child-name=Derico&child-id=0522ibds&case-worker-email=SHANND@jfs.hamilton-co.org&recruiter-email=adoption@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Derico</h2>
+            <h4>Born May 2002</h4>
+            <p>Derico, 13, loves all kinds of music, and he loves to look at books and play board games.</p>
+<p>He likes to go for walks and play outside, and he likes to go to the movies. He says people describe him as nice, active and friendly. He likes to help around the house by picking things up.</p>
+<p>Derico’s care team is looking for a small family for him, one that offers a calm family environment. And Derico’s family definitely needs to like pizza because that’s his favorite food.</p>
+<p></p>
+<p></p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/christopher/">Previous</a>
+                              <a href="https://www.hckids.org/kid/ethan/">Next</a>
+          
+
+                   </div>
+
+    </div>

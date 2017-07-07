@@ -1,0 +1,53 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="O/TaUjo1wyIUrwxbKFvm3VCXKQ7bhTdnfXLjb/ZX5mz+L476pqJIMLMatF0OJjinY3ked48OF56onwjau5IMtLdHIkJhijh1749eKikNA/ObTcqbAJcG8sz9BiEbJNuI3qKCjpzXhur9fXixMq9VzEjXJCdavpxvNQlFXKPwTYiIXBSLqlQl3VFb26K8TCrnnbGRwHUioyDi5oxXUtHL8OCv1JW2EDJE1vUZr1k9uxKVe/gNeiH8P/icQabIhGZwXJqfAieMlCoyIz8ZDWG8ZJvQoxPHpukYKYbul2opJW1poiGFnG465QX/7OvpP3UtO7YB2wVm6tvsMJrx+GB6WqgGFxAizvYE45xN9NcIeI3Z7yZOu8m/s/a0S36HmzEPy/EHn3mpot2Zn0hh7pcB0BpXZX2CDhgmQ8BPqwZs1RDzU/h+qdayTpujXNRIn2PB/HZzponIPdTMYYpFGggbKHB1rxzxSA27OGMusBoTLKGv7tqsDWqFKQ7mLTeQDj3f3LRl7YO3JECllGRkhjO4B/EXOedNtIEXitCK0nuNWZBnojINBoJl6L/vqnMwbMuK3PWJ8BbOy3lzYfmHQk//l2z3ySLE1QMZq68m1qJrjApofaYEqcZ1S/oGdbaskOBlhXDCCD9cFiDaAsGx3L4Mn8Ajw3obkxxO21MrON7f5amnr5txlU+W1pUGdlvE7ksn0XkV4PI7n0sMl/T15+V6aHIlHVSOSkwclFOL0WNOUqEBOjfxuZmlkjTwghjrh4AWG+Q9WGdT8pP/3a4TFmGkxw6U9HihgE8iaKkwDHjKclUV5bph0C2iZ1uZr0PylbCsgjsrJmNgv1hpZFFdAVAYwxn0zHnbzDhiW2m+/vufq9SwV1tpjd2u6xnOz1b57smdXaH8V51kg/ZGInu8XNeOFQcKuuajgqd2OqqxBHvVdXx8b3X14Oi7aY/SjI3TbrgTAU+5sed7KtqK0nmWiX4+pbzVDd9OdH4MhDUv9RjoB0/hmnH3bD/FIweVDPqr8+XF2Fe8cW/DdTaYOilnY48YuJtuTKkCrh3r7Xly+Y512UJaTNccSlOEfOSL4Q5GvuZP4yWPeBYGb7sb+1umRVrDxGzbMzkCbRXV0j3JJz0pVVN4956igSlKkEjbmHDyD7cxNR7YhXJgfzFudo7191fcx7HNeSxaTVr1GyOS4lxRZj2HJVIW9TnBYjLS8t9qYW2p5hBHIBv+FoDvWUn4YVHYtsejPjsgqCZEYL4Gi18S9qfYn80YmH5N8dkCgMkZTDSblAYA1rASBz1cvXZVXJniyJHx2odgbcTf+XaEsxgAPNAOfj4SaE1df0MyTZiZTYC8tlccGnI87CO+Iec7wYnxO5NeIiBJYHGrzXJnsIVgaWOeufR7V61ZKMDWuof2TyKv9aYTWobVq/FcoRJmTIo3o9YvUKlKZyJVkEqvIPjSK9E=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Jo&#39;siah%20photo.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">Mild</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Moderate</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">None</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Jo&#39;siah&kidNum=013949">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Jo'siah is an active, intelligent, and generally happy child who has a strong relationship with his foster father. He loves to play with electronics, such as his tablet and his foster parent's cell phones. Additionally, Jo'siah enjoys riding his bike, playing with Legos, playing with other various toys, and drawing in his free time<p.<p>
+
+The team would like to attempt to find an adoptive resource for Jo’siah and Armonee together. The ideal match would be a two parent home with a strong male role model. Jo’siah and Armonee wish to remain connected to one another, other birth family members, and their current caregiver(s) once their no-matter-what family is located. The boys should do well in a home with younger or older children. </span>
+                </div>
+            
+    </div>
+    

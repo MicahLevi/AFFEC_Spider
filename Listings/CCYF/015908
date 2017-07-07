@@ -1,0 +1,53 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="iyOSPP5Vz4n6JKz1HrUjKcfrOMdAky27rQoNA1THqeCknoCBycWbw473r4mNtoc8aW7/U6kguecWzhnPjvND/Y5WUJcaHnhPHehRm3KI/I4jY4I9TfaEEiKMVXfWnuT1xO5fnWqrUr/E2cIbBfkxOsGvASpGebIWYtyqt83GSTfMyuIayaOzcv+l4y4W9vTdOp+jG115eobA9quz6jrJnLe5YA+w5I5gITPF5UWDFvqugeoulD+KFKqBMVid2FKs2gPuXgb+wL47QtJyCRMWQc+kHRkQLPeYLmi//k2RdUFfra66cKxXdblb24s6Rie7DkcF3CXw6B4lpV6ubQP4XWTJ8CKzpzZT94J8x7XsdqWCyqwwhwlCm6tvJHimuSOForl8icaYvgFVJk1Uq8gz2BKtel+jX8Uk9vK7ihQk38Va1ZcDu+zxQi5OS9peWhcqO9YqP+8QcmcpXbxujUwvEtgt6cHaqRY8UHsb9ngs9Tm/p1sm5Q+SJ9VMgoj2XO5kWxXXqUKcUNK3DnShBj8pnABrOy/4fUzd2DElL8xwRZJwQZPOtnuKTMneSJG3P0tAdDdBwRjHKMHR2M1ez7L+cfaaPih1gCfZHDTKCNEyxvBzSPuIP+6/3AzllR6ktfSG8S5XIyo0b60bqFSHgyz9WyNoomyH3EmViPnVfLBHsJHjaZW+UQpuYOPxMKp3TW0AlyC7TVyobgBBqmx2xyJ41gX3aEDTdERRUFas80RAg1Tp9BOlTGK5Dm1sjFwvTaakXKbWHhaN6OFcx19PcOZHKfRiGsstS8ZIS4xZYdd7j96f3Guj8sBYJimdXoezYU4DplNXoY5eZXKOWzLfhBRadlPkLje7pAmkVtszpwRRiyrlaIpMiGeiT9HegJWhtpyIGCUkBOH4miY0cQVpuJdC/ppp+LbtmiIpIfECBjfvcweHDximSNKjdHjBB4wByXBejYb9XtPPZ9S/xOHmb5M5OSGhZ1R6oQKsxM4kFSnZFvdhMh4dmWJMiMxMFOICQCW/9hBKtKZufiz7LWfE0rAqewPJ3TMIJVJnHf5PM61q6OuX4XHbvcg/NcKYiFEVrZ5/USbJmcnx8UaAe7RfLxWJQ3tj4jmlJHCeJisG2W+NMc/LJd8mQoIhXlQIG1KNs/Sd/hztA2ERWsIyWyEnh5AUaiccs8wC6ZN30FIoIO/m9Gz4zhbMiFkfCeHkelBrsvMyAtfUtwrC00dI6R+UU5kXku2FKAIivZhSiqA6UeVWK9V06sKkUipUB1pdjKFyBUcRQ4eciZ6diuAwiThRpu9xY7tL+TPa0hXYVY78I9pug84=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/DSC_7147.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">None</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">None</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Moderate</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">None</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Endira&kidNum=015908">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Endira is a very creative, intelligent, and articulate young lady who is yearning for a no-matter-what family to call her very own. She is a strong advocate and leader, and she also has an amazing sense of humor. She enjoys crafting, drawing, and painting in her spare time. She also likes listening to music, chatting on the phone, dining out (Chinese is a favorite), and drinking coffee at local coffee shops. Endira would thrive in a home that can provide her with the one-on-one attention she has longed for and a family that would be open to her maintaining contact with other past connections. <p><p>
+
+Photo Credit: Fotografy by Ricki, 2017</span>
+                </div>
+            
+    </div>
+    

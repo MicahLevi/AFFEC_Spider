@@ -1,0 +1,45 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Ryan-10-2014-4.jpg" />
+            <a href="/children/request-more-information/?child-name=Ryan&child-id=0107sbra&case-worker-email=ryanm02@jfs.hamilton-co.org&recruiter-email=willim03@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Ryan</h2>
+            <h4>Born January 2007</h4>
+            <p><a href="https://www.hckids.org/wp-content/uploads/Ryan-10-2014-3.jpg"><img class=" wp-image-2705 alignright" src="https://www.hckids.org/wp-content/uploads/Ryan-10-2014-3.jpg" alt="Ryan 10-2014 (3)" /></a>Ryan is very eager to be adopted and be part of a family. He needs a family that can adjust their expectations of him to meet his current social, emotional and educational functioning. While Ryan has great potential, he needs parents who are extremely patient and willing to learn how to effectively communicate with him and advocate for him educationally and with other service providers.</p>
+<p>Ryan loves music, especially Christian and country music. He enjoys being outside riding his bike, swimming or camping. Ryan would like to live in a rural setting or somewhere he will have a lot of room to safely run around and play outdoors.</p>
+<p>This sweet little guy has great smile and is very affectionate. He loves to give hugs and be close by. Ryan is good with electronics and loves to play on the tablet.</p>
+<p>Ryan is in preschool and enjoys playing on the playground. But he says his favorite fun place is the PlayPlace at McDonald’s, where he can also eat chicken nuggets. Ryan is very proud of the work he does at school and takes special pride in bringing it home to his foster mom.</p>
+<p>Any family considering bringing Ryan into their home will need to be active and have a structured routine in place. He thrives on structure and loves to be close by to his caretaker, but at the same time needs to have clear boundaries in place.</p>
+<p><a href="https://www.hckids.org/wp-content/uploads/Ryan-10-2014-5.jpg"><img class="alignnone size-full wp-image-2706" src="https://www.hckids.org/wp-content/uploads/Ryan-10-2014-5.jpg" alt="Ryan 10-2014 (5)" width="444" height="300" /></a></p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/jude/">Previous</a>
+                              <a href="https://www.hckids.org/kid/michael/">Next</a>
+          
+
+                   </div>
+
+    </div>

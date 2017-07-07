@@ -1,0 +1,42 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Hannah-N.jpg" />
+            <a href="/children/request-more-information/?child-name=Hannah&child-id=0401ighn&case-worker-email=ryanm02@jfs.hamilton-co.org&recruiter-email=adoption@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Hannah</h2>
+            <h4>Born April 2001</h4>
+            <p>Hannah is a bright and helpful young woman. She enjoys going to school, and her favorite class is music. She really enjoys being able to play the clarinet. Along with being a great student she also is a cheerleader.</p>
+<p>In her free time she enjoys listening to gospel and rap music, watching scary movies and playing Uno. Whenever she gets the chance she really loves playing indoors and outdoors, as well as going to the mall with her friends. If she is not up for playing, she also really likes to read.</p>
+<p>When Hannah grows up, she wants to be a pediatrician. She would like a family that will support her and help her start over. She would like to have a traditional family with some brothers and sisters and even some pets. Her favorite animals are dogs and horses. Hannah is a respectful young lady who enjoys laughing and helping with chores.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/yalonda/">Previous</a>
+                              <a href="https://www.hckids.org/?post_type=kid&p=2825">Next</a>
+          
+
+                   </div>
+
+    </div>

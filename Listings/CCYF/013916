@@ -1,0 +1,57 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="Q5iKwbMyKGAwrQJbnMP7VQ+I7BuGbI4jrwTcc7or1odVYbw6H9ybmsHnqX3MMTbZtrX6sRFde+/ea7NBKftLHsJqnYgl5qlPftP7IyNRLq6kS04mLvqAP+6uNsr7wMSHro3GesLDO1IWapGJptyI5FJCnSTMB8quEHkZQSUJJoJK7c8j0hHalZIb+nvu17oNVls8Ebe4Qj2hzgzi07ev2Y5otg4GoAuzeCQQAFA25j+VuFAJIr1UflSXurMf7F4nGoa25yIXJtCJOWl73Ucn9j+DwJFQ/Iq6HCoNStQQHLNjsJYqNP4wKQrJycsV1FLLcLnHr/bcj+ZI6FnwYAhl9n5xvgBfYK+PVvZluzphcT3FieFg/vin8RE+r8fiYTuOYcEETPkedfB/yj3/M+wmS+Maf3FWMf7fdO9XWk3FXtpPpb/CGGNBsP3gu6tzB/dSsfmJlqJz+hbrPVaNFUFyHpVSBjC1KZ9v77jIfZjKOpzkej8NtOpcRuNuzloyMPgVxoWAV+gzEKqnZHLczSPilyiUu3duMAwz8CmFuS5ic4YK8iBqHLVYEIGliRlrI4kTcugJNZc+WDCe8EkGpjTgMdTjXqPcEA0F5ICmni/z9aa3B7KZ/XyI2DgclUIA3x+SNHm0vH8bB0PdgXVLRYLxzYW+DDy1Ehdj+U4RvdTH1lDmRGKqAP83f0Q5GNUUGxW//N2PsnXoz/sjfI2V3jjYXs4F6DsmJEdFzwok14F72iLxdXVrpmzqSmMFfAsz5RIB8N7V0h9GTtw/gnthsYg818rpG0MtAu0hfQEuxBOZZXlusZvBBnQT7lHEqRJnRDqvivVwJAVN6eWCSx2bMHd0fEnLFpYOuPl6Ci9L42f/GofmNFWc3fXaUqtmilvWQJCDg3ACCXgYWnMyAO1dv3IEzFcinSD11uvF/28Tc/A9asoYfZZGqTL0dV/nv+qbP4hynxrKASPAtBlOE4IFvEFIXNpukLD/hvK2w1/UCZzLt2IA7pqAXRhH1QDiJtJgcOyqQ1Ywekp92hEynb8NO1IP1KLSeKCk4x+lQEYkWCkV9+JVzut92jNPD+SPxEIHiHMlfX6LQL0ChyYAlnQdx9vND7c0fA8tiGSV94D7q41crvYVhy2ASevanlzEkq7J995Bzi84oBcM+EHeHT9kGh09SyoBqpMOLiybwnxwCAZQ74gX4l+vXCQpRaECAC5/zD7Be6lGy3cQ9030qRmmPNcPCZqhvBW4tEpjSRvr++ZOOId9pIiDbxMzv9Bgj4ZbSdNQ3jgJ4YmQpRRitNJWQMaVjZM47WAO6hCV1fFnTemdNx10/3oDfEvfwb6npbo3PAY1w3eq7eWkAoFVW3JI+5MWRS3idqGj4cf87WtIQzqDJxaZudb9MGskPsFlnXP1d5NX4onoVpuxm+IaCWTfBdHKPj5u7iTvGht1GocSsZokDNb2TNh90bVEYifoCQo36exMCOxZYBm7bQXr8AWXnT6NSB/amkGNtaFFFefK6Openyn39M4KkY/4TakGwj1HspR4Kcflv7GRBTQwmgfGCRH+fNMATfKgr2NgTE0K0Jct74UipviGNIKUN5G26hxTdtZbEIWqHXvRT2O07xqcvPe5hdQ3kQjCaE80lCN50f2GGZ/Mm+m5zihWJy1+lD6M8MbHkkIT4VnxQndyfqyn+G7FfWTfmnp+NuTGJbUbgwobvrc=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Dyonne%204.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">Mild</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Moderate</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">None</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Dyonne&kidNum=013916">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Dyonne is a very sweet and happy little boy. He is quite athletic and enjoys playing soccer, swimming, and baseball. He is on a bowling league. In addition, Dyonne likes to play with his hero action figures, car/trucks, and video games.<p><p>
+
+Those who know Dyonne well describe him as a child who likes to stay busy. He is a people pleaser and really enjoys the part of his day when he can share about what happened at school. 
+
+Dyonne is looking for a two-parent household or a single parent home with experience and a good support system. He has two siblings and he enjoys visiting and interacting with him. That noted, Dyonne would like to be in a household where he is the youngest child. He needs a family that is nurturing, committed, and patient. This will help Dyonne build trusting and stable relationships. Dyonne will need parents that can use positive reinforcement and opportunities to demonstrate what an excellent child he is.
+
+</span>
+                </div>
+            
+    </div>
+    

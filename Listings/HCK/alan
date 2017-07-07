@@ -1,0 +1,44 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Alan-Wilson-Truitt-0899ibaw.jpg" />
+            <a href="/children/request-more-information/?child-name=Alan&child-id=0899ibaw&case-worker-email=johnsa04@jfs.hamilton-co.org&recruiter-email=adoption@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Alan</h2>
+            <h4>Born August 1999</h4>
+            <p>Alan is an intelligent young man who likes to learn new things. He isn’t very outgoing when you first meet him, but he warms up once he gets to know you.</p>
+<p>He has a good sense of humor and likes to make people laugh by telling jokes and stories. He has a lot of friends.</p>
+<p>Like most teenagers, Alan likes to spend time outside and be active. He enjoys playing sports like football and soccer, and he enjoys playing action-packed video games. Alan’s favorite place to go on the weekends is the skating rink. After a long day of playing sports and skating, Alan’s dinner of choice is pizza. When he grows up, Alan would love to own his own business and be able to travel.</p>
+<p>He also likes to walk to places in his neighborhood, browse the internet and go to the library. He listens to rap and R&B, and creates his own music.</p>
+<p>Alan would like to be part of a small family that will support him and give him the attention a teenager needs.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/nwanya/">Previous</a>
+                              <a href="https://www.hckids.org/?post_type=kid&p=185">Next</a>
+          
+
+                   </div>
+
+    </div>

@@ -1,0 +1,53 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="PXX6MQniYkAFGC1WZ9PxxYQ/vu8mK/6OUCbXLE+mr3TDm7/Ab9YiX4FuvA7pRlxTcyejfj+IQKkP2CLKs8iHubE5YMaq6wPH2/Dl8wL8RENnPMKBtHJ/ZIJwckcrOkFjWcZJm1i6BGmDZjsMY+xs5YZvFNJkN09lII91b0Aw8Wi7Gofr+YN4nHBS+nTD6A6K54IQcI6/QuY5wEt1IVPWNIMiyzmpvjNS7cdz9HuJIpvpfuHof6VhP9TMxLPGKjCZZ7KhvAUHvDlWyCvK40v2uwyRYnp/ZTM1AEBxGfeZURaty8JVcryKJrhmathnw4S+Q6j8Y+iw4B3nTcNXBzPtI6DnE5liQ5b0NLjUSrO5LbRYfYADeXRktQLfhPKJpgIXDZzjdiI9TFxlzmuqxvfzPD5GgsddCWx5o2rrHiBmF3/chIFxLWIa7BrFEzN+wYcWERmfc7ncRmjeyKtTqSWr+WyUJLxkhCgS9ggHVPk69xGY3RmAlg5fmoy64TtHDz+bxoFnKhUq7ZWTE0ddIlUL71Nmt20OdYv6mXUHwP9HkF/rD3Vh3wnfrGP49uQ4MiM637Mokm36w9Jonx6xdGb+aHv3WgjnKE+rjZKdQvhNGyhAHbqDATwba5HcdVIP7IY/gxlC0yzXTuPZj7RtwUcz4ONemUbHBlIW42RuDoRpLOC69AfmwFb0zNc8U1nkd/6dO1jO/uLJF0HiwU0G22lsamDt6rOgIUlsJrA03XexzPobTLOPkU82SvPjzbCufVw2z3ldHQfl1PaKRS34ULZ+0Y4oqpb03QDuauLraYOdipzMmTBMkgVc/aC6Fo1U8X7Pk4JO5g1DZXMydZ9X62DyBE4uoF7WnaevXBPglyNlTiNnPO6YlcfOHGSYoiFZ+36lxCAhQ1XSz6uRywtdgz9Y+2DktErKYsIa0fwyJhqQKzRw1aI7Z2FmRA2ZIbSLKj7xrfT0Jg1BscRK4523ed01pYY1YdVmdfS6ZRVRfQyPj7R3OmBambd+seC+gBC/BextpdUEDT84aPk94s7naUTjIc5in3FYGKHxWdPDDyZE4E8EeDFsFeG1H3TXQXEf1xgP2QCf1QQXbLbBVu5M0T7/Sj3QrMcIovNxJpWSCyRL9Q2pC/jpRThyg1OjxhrkZTAW+3guQ6VWw9u1MCzhaPI/MMZ5ZpTtar4aisjeSuA23N9DGmLk1gO8+62QV6jIHtS8+S5IP8seOwp8TERwyk4QpNDJBd2d6f6J1Pi42MFepk43heLPCAWhjjIHalL8oqXkJPhp/Jhre7DPCw6DWCcciDyF4ifznZRikCHq9BCTPdr4/VWgl8iapS9x0q69HL6qCo85PK6VBRfdn61e4Ty7mWylhuzZ0lvkd5afnBvVdAVV0fITbzrQ4fEyzDvhDeZW8PTcfxOUgIyU4RFLACennguASiLgILjn3y/MDCExzgqJW7+s8txOOsC8NX3cJkg4v9gXbe7a4N+KdeQqEnE6I8tqV1DBQQMHD79WRoU4iGukP5IGMVVftytLiphSMA/qxzD8gZB0+O0SZZvCMEQ3sFwz/s53cBc7aAwAJx+jh262tvpRnj1B+qluasClNHgBnPBSFvJXjL+CvXTTE1z/IDb0vh3dwSYgBP155tjDMZ7ctAEnoVWzq4WIra5eLHIvijZ3nr3fjxhO6LQdV86oZ4N+zeW27DL2Q8UmIpWTmm9gfu018jKgT+hR0FZM6uQA" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Sarah.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Moderate</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">None</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Severe</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Severe</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">Moderate</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Sarah&kidNum=7486">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Sarah is sweet, fun, and wears her heart on her sleeve. Sarah’s favorite thing to do is imaginary play – cooking, “restaurant,” “house,” and playing with dolls. She has a vivid imagination. Sarah loves to have makeup done and wear jewelry to feel special. She also likes to color, listen to music, and read books. She is often up for trying new things and she likes to be outside. She’s a helpful baking assistant in the kitchen. Sarah likes to take naps sometimes and looks forward to getting to go swimming. Sarah is also a big movie fan.  <p><p>
+Sarah says that she really wants a family and to be loved. She does best when she receives a lot of attention from a caring adult, and when others can help her process her feelings. Sarah says that the best Christmas present would be a family to tell her they love her every day. A support person of Sarah’s says, “Sarah will make future parents so happy to have her in their life.” <p><p>
+</span>
+                </div>
+            
+    </div>
+    

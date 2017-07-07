@@ -1,0 +1,53 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Marlena%20pic.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">None</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Moderate</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Moderate</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">Mild</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Marlena &kidNum=015938">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Marlena is a sweet teen who wants to be accepted and have a permanent no-matter-what family. She is very intelligent for her age and has continued to show increased maturity over the past year. Marlena enjoys drawing, painting, singing, crafts, and dancing. She recently took part in a program for youth in Milwaukee that encouraged youth to express themselves through art and music, and she really enjoyed it. Marlena likes school and especially enjoys reading. She has been involved in school sports in the past, including volleyball and gymnastics, which she enjoyed and did well with being a part of a team. Marlena recently entered a poetry competition and enjoys presenting in front of others and even large groups. Marlena enjoys styling/braiding hair and recently started her own “salon” for her peers. She has been working on gardening and takes pride in the garden she has grown and created. As you might guess from all of her varied interests, Marlena enjoys staying busy and likes to be active.<p><p>
+Marlena is a leader and enjoys helping others. She wishes to have a helping profession as a daycare or animal care worker when she is older. Marlena is very spiritual and attends church on a weekly basis. Marlena dislikes when she does not feel that she is being listened to. She also dislikes when she does not receive attention when sought out by adults. Marlena has identified that she can be very impatient with those around her and continues to strengthen her patience.<p><p>
+She would thrive in a two-parent household. Race is not a placement determination as she does not have a preference at this time. Marlena greatly enjoys pets and would prefer a home with an animal that she can play with and help care for. Marlena enjoys younger children and often likes to be a role model for them. If other children are placed in the home, it would be important for the family to devote one-on-one time to Marlena. She does well with a caregiver who is direct, has clear expectations, and is able to provide a comforting and loving home. A Wisconsin family, with either one or two parents, that is trauma informed would be ideal. An understanding of mental health diagnosis related to trauma would also be beneficial. Marlena will need to engage in specific therapies with her committed family. Lastly, a family that values birth family connection (specifically with siblings) is also necessary for Marlena to be happy, healthy, and successful. </span>
+                </div>
+            
+    </div>
+    

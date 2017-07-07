@@ -1,0 +1,51 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="GNog5KimUA9aqendApKXqhD7HsezJHos5c2+yYL4YALHV2fQlIFibiFp5rFuTgLKrlSFAcNZmgSRpH/f891upuUXU4nkH5J+I5LEJBQFe20VZMJ//y7UwAkKhy+up6MwGTnUrRX8gKx1EDjb/mD1zJfjDHBdByecVVwlxc4y8sQMPesyk7Svws81vwmmVzwtPG7eH/xfaR/G+m7ySAxvvlDNrF7O2jx0wfJR40ct++lwDi4y0TVaMEeTbHzjA7qUIfxZnrKSRzANqbrUUfEMqQ99L2gQQ/bSgBMEUZDp6hcATvYjtrAZ16ttxLc7c0mirLLcPI1gDyznAJwJNzN4DPbSiujqkh3UIoi7VqLfijqKCPNUd9XE4Z0SHFV7PuShiuUcJWq30hIr6G1Ewe5RXM+SRqjuNJSr5LtcxgIfUJ8Uuc8VKp89S0AzpEJJrXgRSyk+hnWb0qWFIimpkONj3LNEn+OqM6V9F22nIPlxbdKe8cUdxagEUQW8t6+w8N5L6HOUqlkQnuBjEmovobP2ldOnKvBAi4ikyJ6mSjYis27gAtBOpbN5RpYQsyDssweZauCKn67E1E4FAWhb0/MzY9FhlcXQYggCTXSpS9bkQXEYjHmIJqMxdpc4hyXkurC8YpHkobPNw0kRAXhmxhjw6V+h0NGziiFk6nAgpAXjposeW3SG0PDWjuok35vGn/n3ZmiJzD4BOFnCAJ4eTI8D37q2S3fPd5bbFED74JIJFBIjcgh/cjKMpQpOXALNhDCjpLMOm+IetNMVn0qfPe42FHwLowDqzb+LuKr1HxAl4bURiOUIjfMXzsbQa77IDCCZmmc41EY2VzPvOHwTIXcxy5J/t8nWPrgIDb9ztAcVip6Oy+kq1hYh18ttOoRnVdvxR/0j3xXm2UEgYcQ7S5uDqmhRuAJPnJZ8BkO1KFIoSG6mTjyIu9eep++uhlypAcVGUC4oy/RB+e8bpBYnA1bRxxRJhJqP7ZFSwJohrkViHYGjQ8+6QlrbFi/fNwqh5O7/Q2q7CWlUd/J+lCmbm2F6S3SKQw1bsRtoWoV/LD85LMu3rRRF+1f7xdOSiiI6/xhhtsRE1uBidjVV8HFw+pZddaGx8KAd7VSWcE5CMiseKceTSq9plm6HxRoNdHB6u6ARrRxMdf1mQ4afre0ZZ2rh0cx/H0dXVN1RUhaUdUGgqbk+mBXopNrARBVm+vvb01MW+7MF0DGlrSXpt5xJM8wpATOR0pVFGl6dyviwvgwja3Kzcz5E/NCwlphBd6RYfEVqGZsDDnj7aOmElPO2+ejt8YffNDYhr9CBheayVZXjOYQ1GTPvEgaF1wqmhQ53zKXqUJWdxqm0sqogfoArMes1fVXCqg3h6jAf07JETC3mzrh0RpwExXbQhz87T4sxysHn" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/Dakota%202.jpg" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Mild</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">Mild</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Mild</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Mild</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">Moderate</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Dakota &kidNum=016040">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Those who know him best describe Dakota as a caring, eager to learn, helpful, and active young boy. He is independent, but isn’t afraid to ask for help from trusted caregivers when needed. Some of Dakota’s interests include football (especially the Green Bay Packers), soccer, ice cream, and playing board games. Dakota would do best in a two-parent no-matter-what family that includes either older siblings or no other children. A loving, patient, consistent family that is knowledgeable of trauma and its effects on children will also be vital. His no-matter-what family must value and nurture birth family connections. Dakota can move out of the state of Wisconsin if this is where his no-matter-what family resides. </span>
+                </div>
+            
+    </div>
+    

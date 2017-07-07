@@ -1,0 +1,54 @@
+
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="aG4GtS/1ZA95LvKAv3M3a0aqgegKQmLmgAiJAAin8JOtkRM2dt2uxEeohpgj6L9ymPEWgdUrjfx79gwrcKfly0zWM80ggbWv+aS+9AzhTWG3KVz3AcxqXSa7kqnGCR7Uzn+Jg5G0YtzYpwWbQujNrL9pV5TJq1sCQG2QwQiDOrI6egVb6LzWg6/kgIsX/x8PO+FxIqYIML03pI+nVzIKIJ+gqO/nFGsAga2XLVEE5KO74drqECN+GdnNONXb9SllPgK49o/Iyo1mr6Pylke2PB7ZPSxTn5cyI41k4LO99U75NPk6ZVpU5dj0QuCx+ETFXE2AaxzaX52JvTapdrBhNat2P0z+Z1wxI0nJZPqVg6WnMKb+/hTF8RzwZY6R2kcFo8gzeeF+J2kngucrGvmZd95V1zU7pHaGSmFEeuS/c9/EHevPclVcsHzv4uy9b7CF0EDOjygWQcShdhQRAev+zBPMRbPNvwJckAktwg8drkor64L/qWvuG6BTZ56udpppHqih5sojMhkndiy5rCBi05KuDoKa9mvjmoj+uZHRPkbykLybB+IAZz5nVMsJdkR5Eg5vqeU+1ZdG9SujqmRHLuPi+0fmszZn5SU34FUpyDdoIDXINWFqE05A1nSWgcCfENdNQqowJK9lkcjJxJq05wDrxJDwomQkE5WbtgEtUfe7fJlPErHaisit46wustWzBJzR5uGU7kn75fVK+hho0krlvUq9mr7kT1cVquDqHJ41CbJl+/kXQp3/2B8lHGBV2w1pfrXXoT4wCMGGgUVRsreAYVIqLg5qf38QzV4v/6m2gReGEZcnGUM8tTfxLd2+te+KTaFLVy0uwKo0OaVvYeghvvehZ6ccnBVQo8Pw5Ypr18vWF5uVhPR9YT25AAmWueq2Px/5xmGop4fjsqpn02kYvpBq7H0e3lU3z+pBqRUQ3+uxi0oMAbvGcY38MdZLb3dOJCnHQKfrVOJDZZloei3v/bcRcyD9pnmWVRuZ8z3E/zKDLZCtzokwP1fDmbffQdFyqDKmumMCT4odUVY/5+pnazDrlxKR15p9Nt3TgV83nYu012d8f5poEFc9vqJnLOFXaSYQDBJkwRk/lBqxOYHMe1p00QXZwhlOy4HxFNs/kojal4IynSwUPm4PBB4GiFfCpGiRtM+KBX6cWwUD2lbGd1Xz3rAXZchMDpXPGUk8g1XUVG6PQeMWFqWWtnzXSHsjh4i+MFUFP8n4kKxP7LtpE5YhJgwQnuV2AXuYdEXf3q5vfbejNzKWC1BNieNz17XCNKHjQdRj9YCcJKSFGasnPOKNPFdgDDM+L+zKjNtIuzlwg2HGWaBFgzWTCQbihw0T4K4O94UJGBa0c9fYjGzFci71xO0t1yTW0i0UpPsYW0maspqLvRw5TNiIHbUbeqylcPlMhagMKvQ/tJyyssNGlbQ3BUcx/x2FAZTSP+dcowr7Ni2Y6TytdG2sogMe" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C9F36B63" />
+</div>
+    <div style="width: 1000px; margin: auto;">
+        <table style="width: 100%;">
+            <tr>
+                <td>
+                    <img src="images/ccyfLogo.gif" alt="CCYF Logo" />
+                </td>
+                <td style="text-align: left; vertical-align: middle;">
+                    <h1 style="font-family: Verdana, Sans-Serif;">
+                        Coalition for Children, Youth, and Families</h1>
+                </td>
+            </tr>
+            
+        </table>
+        <hr />
+        
+        
+                <div id="ChildDetailsPic" style="font-size: 14px;">
+                    <a href="Default.aspx" style="font-size: 20px; font-weight: bold;">View Another Child</a>
+                    <p></p>
+                    <img id="DescRepeater_DetailsImg_0" src="WisconsinKids/Kid_Images/_ADS2126.JPG" style="margin-bottom: 10px;
+                        margin-top: 10px; width: 70%;" />
+                    <p />
+                    <div style="text-align: left;">
+                    <strong>Challenges:</strong><br />
+                    Learning Disability: <span id="DescRepeater_LearningID_0">Moderate</span><br />
+                    Physical Disability: <span id="DescRepeater_PhysicalID_0">Mild</span><br />
+                    Emotional Disability: <span id="DescRepeater_EmotionalID_0">Mild</span><br />
+                    Behavioral Disability: <span id="DescRepeater_BehavioralID_0">Severe</span><br />
+                    Developmental Disability: <span id="DescRepeater_DevelopmentalID_0">Moderate</span><br />
+                    <p></p>
+                    </div>
+                    <a id="DescRepeater_ChildInquiry_0" href="Inquiry.aspx?kidName=Nick &kidNum=013917">Inquire about this child</a><p />
+                    <strong>NOTE:</strong> Requires a completed Homestudy.<br />
+                    Don't have one? <a href="http://wiadopt.org/Adopting/tabid/390/Default.aspx">Start here.</a>
+                </div>
+                
+                <div style="float: left; width: 650px; position: relative;">
+                    <span id="DescRepeater_DetailsDesc_0">Nick is a very funny and playful young man. He possesses a phenomenal sense of humor and loves to sing. Nick also appreciates superheroes and swimming. On any ordinary day, Nick can be found playing video games and watching television. Nick is described as a teen who loves to tell stories about his day and spend quality time playing outside.<p><p>
+
+Nick is looking for a two-parent household with caregivers who are strong, patient, consistent, and experienced. A strong support system is also desired to make sure Nick’s needs are being met appropriately and to ensure that he never has to leave a family setting again. Nick may also excel in a home where he is the only child. Only Wisconsin families are being considered for Nick at this time.<p><p>
+</span>
+                </div>
+            
+    </div>
+    

@@ -1,0 +1,47 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/GiovanniXmas16web.jpg" />
+            <a href="/children/request-more-information/?child-name=Giovanni&child-id=1002sbgc&case-worker-email=shannd@jfs.hamilton-co.org&recruiter-email=willim03@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Giovanni</h2>
+            <h4>Born October 2002</h4>
+            <p>This helpful and responsible young man does well in school and enjoys reading adventure books. He also likes to play outside during his free time and he loves to laugh.</p>
+<p><a href="https://www.hckids.org/wp-content/uploads/giovanni1.jpg"><img class="alignright wp-image-5053" src="https://www.hckids.org/wp-content/uploads/giovanni1.jpg" alt="" width="530" height="352" srcset="https://www.hckids.org/wp-content/uploads/giovanni1.jpg 800w, https://www.hckids.org/wp-content/uploads/giovanni1-300x200.jpg 300w, https://www.hckids.org/wp-content/uploads/giovanni1-768x511.jpg 768w" sizes="(max-width: 530px) 100vw, 530px" /></a>Giovanni enjoys watching football and playing football video games. His favorite subject in school is math, because he gets to learn new things every day. He describes himself as active and strong. He works really hard to keep his room clean and helps out around the house. Giovanni is proud of his artistic abilities and he hangs his drawings on the wall proudly for everyone to see.</p>
+<p>Giovanni is looking for a caring and supportive family that can provide understanding as he copes with separation and loss. He also needs a family to support him and give him structure and guidance as he grows and matures.</p>
+
+        </div>
+                <div class="child-video">
+            <h2>Watch Giovanni's Video</h2>
+            <iframe src="https://www.youtube.com/embed/HkwDZ3gemvI?rel=0&wmode=transparent"></iframe>
+            <!--  <iframe src="https://www.youtube.com/embed/HkwDZ3gemvI?rel=0&list=PLA8E76E098D1E9169" ></iframe> -->
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/avante/">Previous</a>
+                              <a href="https://www.hckids.org/kid/gabe/">Next</a>
+          
+
+                   </div>
+
+    </div>

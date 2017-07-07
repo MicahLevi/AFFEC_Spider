@@ -1,0 +1,53 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/070.jpg" />
+            <a href="/children/request-more-information/?child-name=Jason&child-id=0501ibjw&case-worker-email=mooree02@jfs.hamilton-co.org&recruiter-email=willim03@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Jason</h2>
+            <h4>Born May 2001</h4>
+            <p><a href="https://www.hckids.org/wp-content/uploads/057.jpg"><img class=" wp-image-2450 alignright" src="https://www.hckids.org/wp-content/uploads/057.jpg" alt="057" width="258" height="369" /></a><a href="https://www.hckids.org/wp-content/uploads/jasonchristmas.jpg"><img class="alignleft wp-image-3847" src="https://www.hckids.org/wp-content/uploads/jasonchristmas.jpg" alt="" width="300" height="450" /></a>This is Jason. He’s 14, a really nice kid. Great smile.</p>
+<p>He’s good at art and a bit of a comic book nerd. He used his own money to buy a book to read to the baby in his foster home. He played Jesus in his church Easter program. He loves a good Chinese buffet.</p>
+<p>And Jason, whose biological mother is Filipino, desperately wants to belong somewhere.</p>
+<p>Jason has a sports car gallery on paper. This artistic and talented teen loves to draw cars, from classic cars to a modern Ferrari. For Jason, drawing cars is his outlet and he enjoys showcasing his work.</p>
+<p>Jason also enjoys sports and would like to play basketball and football. He is naturally good at math but not sure if he likes the subject. He enjoys listening to music and says he loves animals.</p>
+<p>Jason’s court-appointed special advocate (CASA), likes taking him on outings.</p>
+<p>“He’s polite and always well-behaved,” she says. “And after all he has been through, he still lets himself care for people. I’m really glad to see that.”</p>
+<p>Jason’s capable of doing much better in school, she says – he needs parents who will emphasize the importance of school and college and put a priority on them. He also needs a family where a parent who will encourage him to stick with his speech therapy.</p>
+<p>Jason would thrive in a loving family as the only child so his parents can focus all their affection and attention on him. He needs a patient and consistent home where he will feel safe and supported.<a style="font-size: 14.4444446563721px; line-height: 1.5em;" href="https://www.hckids.org/wp-content/uploads/066.jpg"><img class=" wp-image-2449 alignleft" src="https://www.hckids.org/wp-content/uploads/066.jpg" alt="066" width="490" height="486" /></a></p>
+
+        </div>
+                <div class="child-video">
+            <h2>Watch Jason's Video</h2>
+            <iframe src="https://www.youtube.com/embed/RmPxYNkc90w?rel=0&wmode=transparent"></iframe>
+            <!--  <iframe src="https://www.youtube.com/embed/RmPxYNkc90w?rel=0&list=PLA8E76E098D1E9169" ></iframe> -->
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/marcus/">Previous</a>
+                              <a href="https://www.hckids.org/kid/trayvonta/">Next</a>
+          
+
+                   </div>
+
+    </div>

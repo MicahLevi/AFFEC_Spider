@@ -1,0 +1,42 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Grace-12-2014-3.jpg" />
+            <a href="/children/request-more-information/?child-name=Grace&child-id=1205iggl&case-worker-email=ROBERS04@jfs.hamilton-co.org&recruiter-email=adoption@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Grace</h2>
+            <h4>Born December 2005</h4>
+            <p>This eager girl is an excellent student and loves going to school and earning good grades. Her favorite class is math, and she’s a pro at adding and subtracting. At recess, Grace enjoys playing kickball with all of the other kids. She much prefers playing outside to playing inside because there’s a lot of room for her to run around.</p>
+<p>Grace likes to listen to R&B and pop music; her favorite artist at the moment is Beyonce. She varies between playing with her baby dolls, playing video games on her Game Boy and either riding her bike or scooter outside the house. This silly girl gets lost in her <i>Dr. Seuss</i> books and reads them as quick as she can.</p>
+<p>Grace wants to grow up and walk the runway as a model. She needs a family that can encourage any and all of her future goals. She needs a calm home environment and would do best as the only child in the household. A family that can teach Grace to cope with separation and loss and keep her on the right path would be the perfect fit for this young girl.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/bobbie/">Previous</a>
+                              <a href="https://www.hckids.org/kid/yalonda/">Next</a>
+          
+
+                   </div>
+
+    </div>

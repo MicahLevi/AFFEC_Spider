@@ -1,0 +1,47 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Keira-3.jpg" />
+            <a href="/children/request-more-information/?child-name=Keira&child-id=0402sgkc&case-worker-email=varisd@jfs.hamilton-co.org&recruiter-email=larys@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Keira</h2>
+            <h4>Born April 2002</h4>
+            <p><span style="line-height: 1.5em;">Keira says she would like to</span><span style="line-height: 1.5em;"> be adopted by both a mom</span><span style="line-height: 1.5em;"> and a da</span><span style="line-height: 1.5em;">d who</span><span style="line-height: 1.5em;"> like</span><span style="line-height: 1.5em;"> to</span><span style="line-height: 1.5em;"> take trips</span><span style="line-height: 1.5em;"> and play games. </span><span style="line-height: 1.5em;">This energetic girl says she wants parents who enjoy vacationing in spots like Gatlinburg and who like </span><span style="line-height: 1.5em;">taking daytrips to places like Kings Island. When she’s not on the go, Keira enjoys playing cards, Pictionary and Apples to Apples. She also is an animal lover, so a family with a cat or dog would be nice </span><span style="line-height: 1.5em;">as well.<img class="  wp-image-4296 alignright" src="https://www.hckids.org/wp-content/uploads/Keira-2.jpg" alt="Keira 2" width="368" height="245" /></span></p>
+<p>Keira says she is pretty smart and proud of her ability to spell. She does well in school and plans to keep studying all the way through nursing school. Keira says she enjoys playing basketball and likes to relax by watching golf on TV or reading her <em>Pretty Little Liars</em> book. Even though she likes to joke around and be silly, Keira says she likes things to be clean and neat. When it’s time to get chores done, Keira doesn’t mess around.</p>
+<p></p>
+
+        </div>
+                <div class="child-video">
+            <h2>Watch Keira's Video</h2>
+            <iframe src="https://www.youtube.com/embed/DAgUja5EXA0?rel=0&wmode=transparent"></iframe>
+            <!--  <iframe src="https://www.youtube.com/embed/DAgUja5EXA0?rel=0&list=PLA8E76E098D1E9169" ></iframe> -->
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/alexis/">Previous</a>
+                              <a href="https://www.hckids.org/kid/sydney/">Next</a>
+          
+
+                   </div>
+
+    </div>

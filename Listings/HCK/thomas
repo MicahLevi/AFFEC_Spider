@@ -1,0 +1,53 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/thomasn.jpg" />
+            <a href="/children/request-more-information/?child-name=Thomas&child-id=0601sbtn&case-worker-email=mooree02@jfs.hamilton-co.org&recruiter-email=osborc05@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Thomas</h2>
+            <h4>Born June 2001</h4>
+            <p>Thomas would really like to be adopted. He mentions this a lot to his caseworker, who describes Thomas as polite, respectful and “a very pleasant kid to be around.”</p>
+<p>“I really enjoy the time I spend interacting with him,” his worker said. “He is very insightful about his feelings and emotions.”</p>
+<p>Thomas also would really like to live in a place where he can play school sports – football, soccer and basketball, particularly basketball.</p>
+<p>“He wants to be accepted by peers his own age,” said his cas<img class="  wp-image-401 alignright" src="https://www.hckids.org/wp-content/uploads/Thomas-Nieman-0601sbtn-150x150.jpg" alt="Thomas Nieman 0601sbtn" width="346" height="346" srcset="https://www.hckids.org/wp-content/uploads/Thomas-Nieman-0601sbtn-150x150.jpg 150w, https://www.hckids.org/wp-content/uploads/Thomas-Nieman-0601sbtn-300x300.jpg 300w, https://www.hckids.org/wp-content/uploads/Thomas-Nieman-0601sbtn.jpg 600w" sizes="(max-width: 346px) 100vw, 346px" />e manager. “He’s introverted, but he has a really good sense of humor.”</p>
+<p>In his current placement, he has become a role model, she said, “and everyone looks up to him.”</p>
+<p>He wants a family that will appreciate his needs,” the case manager said. “He needs freedom, he needs some space. He’s a good kid.”</p>
+<p>Thomas likes to read and is good at it. He earns all As in school. He also loves to ride his skateboard and scooter.</p>
+<p>He’s earning allowance for his good behavior. He’s saving the money for an MP3 player.</p>
+<p>Thomas would like a home with pets.</p>
+
+        </div>
+                <div class="child-video">
+            <h2>Watch Thomas's Video</h2>
+            <iframe src="https://www.youtube.com/embed/6htDbomDLsg?rel=0&wmode=transparent"></iframe>
+            <!--  <iframe src="https://www.youtube.com/embed/6htDbomDLsg?rel=0&list=PLA8E76E098D1E9169" ></iframe> -->
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/avant/">Previous</a>
+                              <a href="https://www.hckids.org/?post_type=kid&p=1574">Next</a>
+          
+
+                   </div>
+
+    </div>

@@ -1,0 +1,47 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/James-12-2014-2.jpg" />
+            <a href="/children/request-more-information/?child-name=James&child-id=1203sbjh&case-worker-email=varisd@jfs.hamilton-co.org&recruiter-email=" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet James</h2>
+            <h4>Born December 2003</h4>
+            <p><span style="line-height: 1.5em;"><a href="https://www.hckids.org/wp-content/uploads/James-1-4-2014.jpg"><img class=" wp-image-2069 alignright" src="https://www.hckids.org/wp-content/uploads/James-1-4-2014-1024x989.jpg" alt="14 project.  Photo shot Wednesday  April 30, 2014. The Enquirer/Cara Owsley" width="310" height="299" srcset="https://www.hckids.org/wp-content/uploads/James-1-4-2014-1024x989.jpg 1024w, https://www.hckids.org/wp-content/uploads/James-1-4-2014-300x289.jpg 300w" sizes="(max-width: 310px) 100vw, 310px" /></a>This energetic and happy young man loves to take hundreds of small pieces and try to fit them together. James enjoys completing puzzles and they are his favorite thing to do when he has free time or is off of school. Because of his great problem solving abilities, it is no surprise that James’ favorite subject in school is math. James is also very active. He enjoys playing outside and racing his bike up and down the sidewalk. James likes to go to the library and he describes it as his “favorite fun place.” On rainy days, James enjoys playing games on the computer.</span></p>
+<p>James needs a caring and compassionate family that can provide structure and guidance for him as he grows and matures.</p>
+<p><a href="https://www.hckids.org/wp-content/uploads/James-7-19-20142.jpg"><img class="alignnone  wp-image-2547" src="https://www.hckids.org/wp-content/uploads/James-7-19-20142.jpg" alt="James 7-19-2014" width="394" height="370" /></a></p>
+
+        </div>
+                <div class="child-video">
+            <h2>Watch James's Video</h2>
+            <iframe src="https://www.youtube.com/embed/z4W3V7bhrYw?rel=0&wmode=transparent"></iframe>
+            <!--  <iframe src="https://www.youtube.com/embed/z4W3V7bhrYw?rel=0&list=PLA8E76E098D1E9169" ></iframe> -->
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/?post_type=kid&p=3187">Previous</a>
+                              <a href="https://www.hckids.org/kid/cody/">Next</a>
+          
+
+                   </div>
+
+    </div>

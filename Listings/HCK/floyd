@@ -1,0 +1,45 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/Floydedited.jpg" />
+            <a href="/children/request-more-information/?child-name=Floyd&child-id=0102ibfg&case-worker-email=MOOREE02@jfs.hamilton-co.org&recruiter-email=adoption@jfs.hamilton-co.org" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Floyd</h2>
+            <h4>Born January 2002</h4>
+            <p>Floyd likes to watch football and baseball on TV. But he likes to play football, as wide receiver.</p>
+<p>He admits he doesn’t like school a whole lot. But he does find science interesting. He would like to be an architect when he grows up.</p>
+<p>Floyd doesn’t watch a lot of TV, but he does like to watch action movies and play war games like Call of Duty and sports games.</p>
+<p>He describes himself as quiet, smart and says he has a nice smile.</p>
+<p>He’s hoping for two parents and siblings his age or older.</p>
+<p></p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/ethan/">Previous</a>
+                              <a href="https://www.hckids.org/?post_type=kid&p=4398">Next</a>
+          
+
+                   </div>
+
+    </div>

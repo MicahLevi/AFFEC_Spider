@@ -1,0 +1,42 @@
+<div class="right-content three-fourth">
+        <div class="one-third gutterless main-image ">
+            <img src="https://www.hckids.org/wp-content/uploads/avonntaeh.jpg" />
+            <a href="/children/request-more-information/?child-name=Avonntae&child-id=0805ibah&case-worker-email=&recruiter-email=" class=" button gold">Request More Info</a>
+        </div>
+        <div class="two-third individual-content">
+            <h2>Meet Avonntae</h2>
+            <h4>Born August 2005</h4>
+            <p>This young man is a very sweet and strong person. He really enjoys sports like baseball, dodge ball, and football. His favorite sport to watch is Football.</p>
+<p>Hisfavorite thing to do is eat. He really likes to eat pizza, chipotle, and Golden Corral. If there is a place that he really enjoys to be at, it would be Golden Corral.</p>
+<p>Avanntae is looking for a big family to watch sports with and go to the park and play. Don’t worry about a messy room because Avonntae loves staying clean and most definitely enjoys cleaning his room.</p>
+
+        </div>
+        
+        <hr />
+
+        <div class="social one-half">
+            <div class="g-plusone"></div>
+
+            <!-- Place this tag after the last +1 button tag. -->
+            <script type="text/javascript">
+                (function () {
+                    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+                    po.src = 'https://apis.google.com/js/platform.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+                })();
+            </script>
+            <a href="https://twitter.com/share" class="twitter-share-button" data-lang="en">Tweet</a>
+            <script>!function (d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (!d.getElementById(id)) { js = d.createElement(s); js.id = id; js.src = "https://platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs); } }(document, "script", "twitter-wjs");</script>
+            <div class="fb-like" data-layout="button_count" data-action="like" data-show-faces="false" data-share="true"></div>
+            <!-- Place this tag where you want the +1 button to render. -->
+
+        </div>
+
+        <div class="pagination one-half gutterless">
+                    <a href="https://www.hckids.org/kid/goldeci/">Previous</a>
+                              <a href="https://www.hckids.org/kid/christopher/">Next</a>
+          
+
+                   </div>
+
+    </div>
